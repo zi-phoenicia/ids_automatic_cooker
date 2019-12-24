@@ -1,0 +1,33 @@
+# following ideographs were merged, because they share an identical L1 IDS
+# 〢 刂 not merged, for they're belonging to different ideographs
+# 丁 丅 not merged, for they're belonging to different ideographs
+七.	七T	七t
+乂.	乂J
+义.	义K
+乜.	乜H
+也.	也H
+# 亠. 冫 not merged, for they're belonging to different ideographs
+亡.	亡H
+亡J	亡V
+他.	他H
+儿.	儿w
+八.	八T	八d
+冏H	冏J
+刄.	刄J
+分.	分T
+切.	切J
+勻	匀J
+匄.	匄H
+匕T	匕th
+匜.	匜H
+匸.	匸H
+卂.	卂T
+又.	又d
+双.	双d	双n
+叒.	叒J	叒K
+史.	史K
+吂.	吂T
+吔.	吔H
+吩.	吩T
+呁H	呁K
+咃.	咃T
