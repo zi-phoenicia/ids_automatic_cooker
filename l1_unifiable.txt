@@ -1,11 +1,11 @@
 # following tuples considered identical in L1 IDS
 ㇀	一
 𠃌	𠃍
-㇅	㇍	⺄	㇈
+⺄	㇅	㇈	㇍
 ㇎	𠄎
-亅	㇓	丨
+㇓	丨	亅
 ㇄	乚	𠃊	𠄌
-㇉	𠃑	㇘
-㇝	丶	㇂	乀
+㇉	㇘	𠃑
+㇂	㇝	丶	乀
 # following considered identical for having identical L1 IDS and only separated by source separation rule
 勻	匀
