@@ -7,6 +7,7 @@
 义.	义K
 乜.	乜H
 也.	也H
+亚.	亚t
 # 亠. 冫 not merged, for they're belonging to different ideographs
 亡.	亡H
 亡J	亡V
@@ -45,3 +46,4 @@
 坴H	坴J
 士.	士t
 壵.	壵T
+夂.	夂d
