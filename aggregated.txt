@@ -20901,6 +20901,7 @@
 # 龣
 # 龤
 # 龥
+#---- CJK Unified Ideographs 4.1
 # 龦
 # 龧
 # 龨
@@ -20923,6 +20924,7 @@
 # 龹
 # 龺
 # 龻
+#---- CJK Unified Ideographs 5.1
 # 龼
 # 龽
 # 龾
@@ -20931,6 +20933,7 @@
 # 鿁
 # 鿂
 # 鿃
+#---- CJK Unified Ideographs 5.2
 # 鿄
 # 鿅
 # 鿆
@@ -20939,7 +20942,9 @@
 # 鿉
 # 鿊
 # 鿋
+#---- CJK Unified Ideographs 6.1
 # 鿌
+#---- CJK Unified Ideographs 8.0
 # 鿍
 # 鿎
 # 鿏
@@ -20949,6 +20954,7 @@
 # 鿓
 # 鿔
 # 鿕
+#---- CJK Unified Ideographs 10.0
 # 鿖
 # 鿗
 # 鿘
@@ -20970,11 +20976,13 @@
 # 鿨
 # 鿩
 # 鿪
+#---- CJK Unified Ideographs 11.0
 # 鿫
 # 鿬
 # 鿭
 # 鿮
 # 鿯
+#---- CJK Unified Ideographs 13.0
 # 鿰
 # 鿱
 # 鿲
@@ -27571,6 +27579,7 @@
 # 䶳
 # 䶴
 # 䶵
+#---- CJK Unified Ideographs Extension A 13.0
 # 䶶
 # 䶷
 # 䶸
@@ -70293,6 +70302,7 @@
 # 𪛔
 # 𪛕
 # 𪛖
+#---- CJK Unified Ideographs Extension B 13.0
 # 𪛗
 # 𪛘
 # 𪛙
