@@ -19,7 +19,7 @@
 ㇈	stroke			
 ㇎	stroke			
 ㇊	stroke			
-!专	stroke			
+!专	stroke			横折撇
 ㇇	stroke			
 乙	stroke			
 𠄎	stroke			
