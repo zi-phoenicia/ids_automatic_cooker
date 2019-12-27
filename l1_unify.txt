@@ -9,6 +9,7 @@
 义.	义K
 乜.	乜H
 也.	也H
+# 于 干 not merged, for they're belonging to different ideographs
 亚.	亚t
 # 亠. 冫 not merged, for they're belonging to different ideographs
 亡.	亡H
@@ -29,7 +30,9 @@
 匕T	匕th
 匜.	匜H
 匸.	匸H
+# 十 𬺰 not merged, for they're belonging to different ideographs
 卂.	卂T
+# 千 𠂌 not merged, for they're belonging to different ideographs
 又.	又d
 双.	双d	双n
 叒.	叒J	叒K
