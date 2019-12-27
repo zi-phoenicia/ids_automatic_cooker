@@ -67,6 +67,7 @@
 !丘	non-splittable	丿丨	0e1s	
 !乐	non-splittable	丿𠃊	0e1s	
 !卬	non-splittable	丿𠄌	0e1s	
+𠂆	non-splittable	丿丿	0e1s	
 人.	non-splittable	丿乀	0s1s	
 入.	non-splittable	丿乀	0s1s	入
 人d	non-splittable	丿丶	0s1s	
