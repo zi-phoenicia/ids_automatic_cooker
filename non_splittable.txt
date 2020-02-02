@@ -79,6 +79,7 @@
 己.	non-splittable	𠃍一乚	0e1e 1s2s	
 巳.	non-splittable	𠃍一乚	0e1e 0s2s	
 巳w	non-splittable	𠃍一㇄	0e1e 0s2s	
+弓	non-splittable	𠃍一㇉	0e1e 1s2s	
 己t	non-splittable	𠃍一𠄌	0e1e 1s2s	
 巳t	non-splittable	𠃍一𠄌	0e1e 0s2s	
 尸	non-splittable	𠃍一丿	0e1e 0s2s	
