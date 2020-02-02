@@ -42,7 +42,7 @@
 ㇢	stroke			
 𠃋	stroke			
 𠃉	stroke			
-㇛	stroke			
+𡿨	stroke			
 ㇓	stroke			
 乀	stroke			
 ㇂	stroke			
