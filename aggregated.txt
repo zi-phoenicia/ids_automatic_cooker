@@ -94301,6 +94301,7 @@
 !叚	# non-splittable	𠃍一丨 0e1e 0s2s 
 ┤	⿰一丨
 ╪	⿻丨二
+┌	# non-splittable	一丨 0s1s 
 卩.	# non-splittable	𠃌丨 0s1s 
 卩p	# non-splittable	𠃌丿 0s1s 
 人.	# non-splittable	丿乀 0s1s 

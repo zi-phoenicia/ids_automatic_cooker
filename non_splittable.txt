@@ -50,6 +50,7 @@
 ㇃	stroke			
 ㇝	stroke			
 〇	stroke			
+┌	non-splittable	一丨	0s1s	
 匚	non-splittable	一𠃊	0s1s	
 厂	non-splittable	一丿	0s1s	
 コ	non-splittable	𠃍一	0e1e	
