@@ -75,6 +75,7 @@
 冖	non-splittable	丶乛	0s1s	
 !卐	non-splittable	一丨一	0s1s 1e2e	
 !叚	non-splittable	𠃍一丨	0e1e 0s2s	
+尸	non-splittable	𠃍一丿	0e1e 0s2s	
 !卍	non-splittable	丨一丨	0e1e 1s2s	
 !亞0	non-splittable	丨一𠃑	0e1e 1s2s	
 口	non-splittable	丨𠃍一	0s1s 0e2s 1e2e	
