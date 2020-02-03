@@ -31,6 +31,7 @@
 勻	匀J
 匄.	匄H
 匕T	匕th
+匜.	匜H
 匸.	匸H
 # 十 𬺰 not merged, for they're belonging to different ideographs
 卂.	卂T
