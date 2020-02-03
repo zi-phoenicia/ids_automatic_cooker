@@ -102,6 +102,7 @@
 弎.	弎T
 弛.	弛H
 彗H	彗J
+彣J	彣K
 彵.	彵T
 忘.	忘H
 忙.	忙H
@@ -121,3 +122,7 @@
 抄.	抄H
 挘.	挘H
 摕.	摕T
+支.	支d
+攴.	攴d
+文J	文K
+# 旰 旴 not merged, for they're belonging to different ideographs
