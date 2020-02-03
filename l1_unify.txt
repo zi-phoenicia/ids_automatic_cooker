@@ -112,4 +112,11 @@
 慧H	慧J
 慸.	慸T
 戎.	戎J
+扒.	扒T
+扙.	扙K
 # 扜 扞 not merged, for they're belonging to different ideographs
+扡.	扡H
+扨J	扨T
+扮.	扮T
+抄.	抄H
+挘.	挘H
