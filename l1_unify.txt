@@ -1,4 +1,5 @@
 # following ideographs were merged, because they share an identical L1 IDS
+# ╪ 扌 not merged, for they're belonging to different ideographs
 # 〢 刂 not merged, for they're belonging to different ideographs
 # 㐅 乂. 乂J not merged, for they're belonging to different ideographs
 # 丁 丅 not merged, for they're belonging to different ideographs
@@ -110,3 +111,4 @@
 怹.	怹H
 慧H	慧J
 慸.	慸T
+# 扜 扞 not merged, for they're belonging to different ideographs
