@@ -124,5 +124,7 @@
 摕.	摕T
 支.	支d
 攴.	攴d
+攵.	攵d
 文J	文K
 # 旰 旴 not merged, for they're belonging to different ideographs
+# 杅 杆 not merged, for they're belonging to different ideographs
