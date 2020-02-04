@@ -147,4 +147,8 @@
 昐.	昐T
 更.	更K
 朁.	朁J
+朌.	朌T
+朘H	朘K
+朙H	朙J
+朚.	朚T
 # 杅 杆 not merged, for they're belonging to different ideographs
