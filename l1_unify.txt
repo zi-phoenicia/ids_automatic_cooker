@@ -107,6 +107,7 @@
 忘.	忘H
 忙.	忙H
 忚.	忚T
+忞.	忞T
 忿.	忿T
 怬.	怬K
 怹.	怹H
@@ -125,6 +126,8 @@
 支.	支d
 攴.	攴d
 攵.	攵d
-文J	文K
+文.	文.d
+文J	文K	文sd
+斉J	斉K
 # 旰 旴 not merged, for they're belonging to different ideographs
 # 杅 杆 not merged, for they're belonging to different ideographs
