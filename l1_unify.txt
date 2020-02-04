@@ -152,3 +152,12 @@
 朘H	朘K
 朙H	朙J
 朚.	朚T
+未.	未V
+朳.	朳T
+# 杅 杆 not merged, for they're belonging to different ideographs
+杖.	杖K
+杗.	杗H
+杝.	杝H
+杧.	杧H
+杪.	杪H
+枌.	枌T
