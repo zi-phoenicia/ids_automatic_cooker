@@ -11,6 +11,7 @@
 义.	义K
 乜.	乜H
 也.	也H
+乸.	乸H
 # 于 干 not merged, for they're belonging to different ideographs
 亘.	亘t
 亚.	亚t
@@ -66,7 +67,6 @@
 坌.	坌T
 坴H	坴J
 埂.	埂K
-埏H	埏J
 墆.	墆H
 士.	士t
 壴.	壴t
@@ -105,7 +105,6 @@
 幷.	幷J
 廗.	廗H
 廴.	廴J
-延H	延K
 廻.	廻K
 廽.	廽J
 弅.	弅T
@@ -166,4 +165,7 @@
 柶.	柶J
 栾.	栾H
 梗.	梗K
+止.	止t
+正.	正t
+毛.	毛t
 # 汗 汙 not merged, for they're belonging to different ideographs
