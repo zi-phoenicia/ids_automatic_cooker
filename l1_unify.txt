@@ -21,6 +21,7 @@
 倰H	倰J
 僀.	僀T
 儿.	儿w
+兓.	兓J
 八.	八T	八d
 冏H	冏J
 凌H	凌J
@@ -129,5 +130,10 @@
 文.	文.d
 文J	文K	文sd
 斉J	斉K
+旡.	旡t
+既.	既t
+旦.	旦t
 # 旰 旴 not merged, for they're belonging to different ideographs
+昀H	昀K
+昐.	昐T
 # 杅 杆 not merged, for they're belonging to different ideographs
