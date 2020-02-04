@@ -132,6 +132,7 @@
 抄.	抄H
 挘.	挘H
 挭.	挭J
+探H	探J
 摕.	摕T
 支.	支d
 攴.	攴d
@@ -151,4 +152,3 @@
 朘H	朘K
 朙H	朙J
 朚.	朚T
-# 杅 杆 not merged, for they're belonging to different ideographs
