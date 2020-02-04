@@ -22,6 +22,7 @@
 侫.	侫H
 倰H	倰J
 僀.	僀T
+僭.	僭J
 儿.	儿w
 兓.	兓J
 八.	八T	八d
@@ -52,7 +53,9 @@
 呬.	呬J
 咃.	咃T
 哋.	哋H
+哽.	哽J
 嘒H	嘒J
+噆.	噆J
 四.	四J
 囧H	囧J
 土.	土t
@@ -62,6 +65,7 @@
 坋.	坋T
 坌.	坌T
 坴H	坴J
+埂.	埂K
 墆.	墆H
 士.	士t
 壴.	壴t
@@ -87,6 +91,7 @@
 屛.	屛J
 岎.	岎T
 岔.	岔T
+峺.	峺J
 崚H	崚J
 嵽.	嵽H
 巠.	巠t
@@ -126,6 +131,7 @@
 扮.	扮T
 抄.	抄H
 挘.	挘H
+挭.	挭J
 摕.	摕T
 支.	支d
 攴.	攴d
@@ -139,4 +145,6 @@
 # 旰 旴 not merged, for they're belonging to different ideographs
 昀H	昀K
 昐.	昐T
+更.	更K
+朁.	朁J
 # 杅 杆 not merged, for they're belonging to different ideographs
