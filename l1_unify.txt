@@ -181,4 +181,5 @@
 毛.	毛t
 毟.	毟J
 毮.	毮J
+氓.	氓H
 # 汗 汙 not merged, for they're belonging to different ideographs
