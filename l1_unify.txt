@@ -175,5 +175,6 @@
 次K	次T
 止.	止t
 正.	正t
+歩.	歩J
 毛.	毛t
 # 汗 汙 not merged, for they're belonging to different ideographs
