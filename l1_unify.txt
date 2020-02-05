@@ -177,5 +177,6 @@
 正.	正t
 歩.	歩J
 殢.	殢H
+毑.	毑T
 毛.	毛t
 # 汗 汙 not merged, for they're belonging to different ideographs
