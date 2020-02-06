@@ -183,4 +183,8 @@
 毮.	毮J
 氓.	氓H
 氛.	氛J
+汃.	汃T
+汒.	汒H
 # 汗 汙 not merged, for they're belonging to different ideographs
+池.	池H
+汾.	汾T
