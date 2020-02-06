@@ -55,6 +55,7 @@
 咃.	咃T
 哋.	哋H
 哽.	哽J
+唦.	唦H
 嘒H	嘒J
 噆.	噆J
 四.	四J
@@ -82,6 +83,7 @@
 妢.	妢T
 姸.	姸H
 姿K	姿T
+娑.	娑H
 婈H	婈J
 子.	子t
 孔.	孔V
@@ -135,6 +137,8 @@
 抄.	抄H
 挘.	挘H
 挭.	挭J
+挱.	挱H
+挲.	挲H
 探H	探J
 摕.	摕T
 支.	支d
@@ -166,6 +170,7 @@
 枌.	枌T
 柶.	柶J
 栾.	栾H
+桫.	桫H
 梗.	梗K
 棎H	棎K
 棨J	棨T
@@ -188,3 +193,11 @@
 # 汗 汙 not merged, for they're belonging to different ideographs
 池.	池H
 汾.	汾T
+沙.	沙H
+泗.	泗J
+浭.	浭K
+浻H	浻K
+淕H	淕J
+淩H	淩J
+深H	深J
+渉.	渉J
