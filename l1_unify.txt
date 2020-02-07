@@ -33,6 +33,7 @@
 分.	分T
 切.	切J
 劣.	劣H
+勘H	勘J
 勻	匀J
 匄.	匄H
 匕T	匕th
@@ -56,6 +57,7 @@
 哋.	哋H
 哽.	哽J
 唦.	唦H
+啿H	啿J
 嘒H	嘒J
 噆.	噆J
 四.	四J
@@ -68,7 +70,9 @@
 坌.	坌T
 坴H	坴J
 埂.	埂K
+堪H	堪J
 墆.	墆H
+墈H	墈J
 士.	士t
 壴.	壴t
 壵.	壵T
@@ -87,16 +91,19 @@
 婈H	婈J
 子.	子t
 孔.	孔V
+孤.	孤V
 小.	小s
 尐.	尐H
 少.	少H
 尛.	尛T
 尜.	尜H
+尠H	尠J	尠T
 屛.	屛J
 岎.	岎T
 岔.	岔T
 峺.	峺J
 崚H	崚J
+嵁H	嵁K
 嵽.	嵽H
 巠.	巠t
 工.	工t
@@ -108,6 +115,8 @@
 幷.	幷J
 廗.	廗H
 廴.	廴J
+廸.	廸J
+廹.	廹J
 廻.	廻K
 廽.	廽J
 弅.	弅T
@@ -125,10 +134,12 @@
 怬.	怬K
 怹.	怹H
 恣J	恣T
+愖H	愖J
 慧H	慧J
 慸.	慸T
 懘.	懘H
 戎.	戎J
+戡H	戡J
 扒.	扒T
 扙.	扙K
 # 扜 扞 not merged, for they're belonging to different ideographs
@@ -141,6 +152,7 @@
 挱.	挱H
 挲.	挲H
 探H	探J
+揕H	揕J
 摕.	摕T
 支.	支d
 攴.	攴d
@@ -148,8 +160,7 @@
 文.	文.d
 文J	文K	文sd
 斉J	斉K
-# 斑. 玟. not merged, for they're belonging to different ideographs
-# 斑J 玟K not merged, for they're belonging to different ideographs
+斟H	斟J
 斧.	斧K
 旡.	旡t
 既.	既t
@@ -181,8 +192,10 @@
 棱H	棱J
 棼.	棼T
 椕.	椕T
+椹H	椹J
 槥H	槥J
 次K	次T
+歁H	歁K
 止.	止t
 正.	正t
 歩.	歩J
@@ -206,12 +219,14 @@
 淩H	淩J
 深H	深J
 渉.	渉J
+湛H	湛J
 滯.	滯H
 潛.	潛J
 灺.	灺H
 炃.	炃T
 炒.	炒H
 烱H	烱J
+煁H	煁J
 父.	父K
 爸.	爸J
 爹.	爹J
@@ -225,3 +240,6 @@
 # 玕 玗 not merged, for they're belonging to different ideographs
 玢.	玢T
 琛H	琛J
+瓫.	瓫T
+甚H	甚J
+# 盰 盱 not merged, for they're belonging to different ideographs
