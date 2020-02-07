@@ -54,6 +54,7 @@
 匚	non-splittable	一𠃊	0s1s	
 !戉	non-splittable	一𠄌	0s1s	
 厂	non-splittable	一丿	0s1s	
+!皮	non-splittable	乛丿	0s1s	
 コ	non-splittable	𠃍一	0e1e	
 卩.	non-splittable	𠃌丨	0s1s	
 !乌0	non-splittable	𠃌㇉	0s1s	

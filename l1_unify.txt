@@ -59,6 +59,7 @@
 唦.	唦H
 啿H	啿J
 嘒H	嘒J
+嘙.	嘙T
 噆.	噆J
 四.	四J
 囧H	囧J
@@ -88,6 +89,7 @@
 姸.	姸H
 姿K	姿T
 娑.	娑H
+婆.	婆H
 婈H	婈J
 子.	子t
 孔.	孔V
@@ -213,6 +215,7 @@
 汾.	汾T
 沙.	沙H
 泗.	泗J
+波.	波d
 浭.	浭K
 浻H	浻K
 淕H	淕J
@@ -246,4 +249,5 @@
 畇H	畇K
 痧.	痧H
 皂.	皂T
+皮.	皮d
 # 盰 盱 not merged, for they're belonging to different ideographs
