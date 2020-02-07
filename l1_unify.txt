@@ -148,6 +148,8 @@
 文.	文.d
 文J	文K	文sd
 斉J	斉K
+# 斑. 玟. not merged, for they're belonging to different ideographs
+# 斑J 玟K not merged, for they're belonging to different ideographs
 斧.	斧K
 旡.	旡t
 既.	既t
@@ -218,3 +220,8 @@
 牤.	牤T
 猀.	猀H
 玅.	玅H
+王.	王t
+玐.	玐T
+# 玕 玗 not merged, for they're belonging to different ideographs
+玢.	玢T
+琛H	琛J
