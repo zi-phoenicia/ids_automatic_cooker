@@ -155,6 +155,7 @@
 挲.	挲H
 探H	探J
 揕H	揕J
+搤.	搤J
 摕.	摕T
 支.	支d
 攴.	攴d
@@ -250,4 +251,5 @@
 痧.	痧H
 皂.	皂T
 皮.	皮d
+盆.	盆T
 # 盰 盱 not merged, for they're belonging to different ideographs
