@@ -242,4 +242,6 @@
 琛H	琛J
 瓫.	瓫T
 甚H	甚J
+甿.	甿H
+畇H	畇K
 # 盰 盱 not merged, for they're belonging to different ideographs
