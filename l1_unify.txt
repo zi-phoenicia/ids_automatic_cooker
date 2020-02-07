@@ -223,6 +223,8 @@
 淩H	淩J
 深H	深J
 渉.	渉J
+渺.	渺H
+渻.	渻H
 湛H	湛J
 滯.	滯H
 潛.	潛J
@@ -253,3 +255,12 @@
 皮.	皮d
 盆.	盆T
 # 盰 盱 not merged, for they're belonging to different ideographs
+盲.	盲H
+盳.	盳H
+盷H	盷K
+盼.	盼T
+省.	省H
+眇.	眇H
+県.	県J
+睖H	睖J
+睦H	睦J

@@ -89,6 +89,7 @@
 尸	non-splittable	𠃍一丿	0e1e 0s2s	
 !卍	non-splittable	丨一丨	0e1e 1s2s	
 !亞0	non-splittable	丨一𠃑	0e1e 1s2s	
+!睂	non-splittable	丨一丿	0e1e 1s2s	
 口	non-splittable	丨𠃍一	0s1s 0e2s 1e2e	
 囗	non-splittable	丨𠃍一	0s1s 0e2s 1e2e	囗
 !亞1	non-splittable	𠃑一丨	0e1e 1s2s	
