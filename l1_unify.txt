@@ -244,4 +244,5 @@
 甚H	甚J
 甿.	甿H
 畇H	畇K
+痧.	痧H
 # 盰 盱 not merged, for they're belonging to different ideographs
