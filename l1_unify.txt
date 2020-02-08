@@ -70,6 +70,7 @@
 坋.	坋T
 坌.	坌T
 坴H	坴J
+坹.	坹T
 埂.	埂K
 堪H	堪J
 墆.	墆H
@@ -94,15 +95,18 @@
 子.	子t
 孔.	孔V
 孤.	孤V
+# 宂H 穴.w not merged, for they're belonging to different ideographs
 小.	小s
 尐.	尐H
 少.	少H
 尛.	尛T
 尜.	尜H
 尠H	尠J	尠T
+屄.	屄T
 屛.	屛J
 岎.	岎T
 岔.	岔T
+岤.	岤T
 峺.	峺J
 崚H	崚J
 嵁H	嵁K
@@ -187,6 +191,7 @@
 杪.	杪H
 枌.	枌T
 柶.	柶J
+柼.	柼T
 栾.	栾H
 桫.	桫H
 梗.	梗K
@@ -217,6 +222,7 @@
 沙.	沙H
 泗.	泗J
 波.	波d
+泬.	泬T
 浭.	浭K
 浻H	浻K
 淕H	淕J
@@ -239,6 +245,7 @@
 爻.	爻J	爻d
 牠.	牠H
 牤.	牤T
+狖.	狖T
 猀.	猀H
 玅.	玅H
 王.	王t
@@ -278,3 +285,5 @@
 稉.	稉J
 稑H	稑J
 稜H	稜J
+穴.	穴T
+穴J	穴K
