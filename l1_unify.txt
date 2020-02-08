@@ -95,6 +95,7 @@
 子.	子t
 孔.	孔V
 孤.	孤V
+孫.	孫V
 # 宂H 穴.w not merged, for they're belonging to different ideographs
 小.	小s
 尐.	尐H
@@ -307,3 +308,10 @@
 粆.	粆H
 粉.	粉T
 糂H	糂J
+紋J	紋K
+紗.	紗H
+紛.	紛T
+紛J	紛K
+緲.	緲H
+縄.	縄T
+縣.	縣T
