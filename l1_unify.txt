@@ -12,6 +12,7 @@
 义.	义K
 乜.	乜H
 也.	也H
+习.	习z
 乸.	乸H
 # 于 干 not merged, for they're belonging to different ideographs
 亘.	亘t
@@ -163,6 +164,7 @@
 探H	探J
 揕H	揕J
 摕.	摕T
+摺J	摺K
 支.	支d
 攴.	攴d
 攵.	攵d
@@ -328,3 +330,4 @@
 羏.	羏K
 羒.	羒T
 羝H	羝J
+羽K	羽zp
