@@ -289,3 +289,16 @@
 立.	立.t
 立J	立st
 竕.	竕T
+竹.	竹V
+# 竽 竿 not merged, for they're belonging to different ideographs
+竾.	竾H
+笀.	笀H
+笀K	笀V
+笅.	笅K
+笉H	笉K
+筂.	筂H
+筓.	筓K
+筠H	筠J
+箵.	箵H
+篎.	篎H
+篲H	篲J
