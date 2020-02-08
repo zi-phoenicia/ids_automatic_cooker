@@ -2,6 +2,7 @@
 # ╪ 扌 not merged, for they're belonging to different ideographs
 # 〢 刂 not merged, for they're belonging to different ideographs
 # 㐅 乂. 乂J not merged, for they're belonging to different ideographs
+䒑.	䒑t
 # 丁 丅 not merged, for they're belonging to different ideographs
 七.	七T	七t
 丈.	丈K
@@ -76,7 +77,6 @@
 墆.	墆H
 墈H	墈J
 士.	士t
-壴.	壴t
 壵.	壵T
 夂.	夂d
 夊.	夊J	夊d
@@ -159,7 +159,6 @@
 挲.	挲H
 探H	探J
 揕H	揕J
-搤.	搤J
 摕.	摕T
 支.	支d
 攴.	攴d
@@ -287,3 +286,6 @@
 稜H	稜J
 穴.	穴T
 穴J	穴K
+立.	立.t
+立J	立st
+竕.	竕T
