@@ -63,6 +63,8 @@
 咠.	咠J
 咡.	咡J
 哋.	哋H
+哎.	哎J
+哎H	哎K
 哽.	哽J
 唦.	唦H
 啿H	啿J
@@ -234,6 +236,7 @@
 棢.	棢T
 棨J	棨T
 棱H	棱J
+棻H	棻T
 棼.	棼T
 椕.	椕T
 椹H	椹J
@@ -424,3 +427,22 @@
 舟J	舟st
 舥H	舥V
 艮.	艮d
+艾.	艾J
+艾H	艾K
+# 芉. 芋. not merged, for they're belonging to different ideographs
+# 芉T 芋H not merged, for they're belonging to different ideographs
+芬.	芬J
+芬H	芬T
+苆.	苆J
+茨K	茨T
+茰.	茰J
+茰H	茰K
+茸.	茸J
+茸H	茸K
+荺H	荺K
+莄.	莄J
+莄K	莄T
+莎.	莎J
+莎H	莎T
+莏H	莏T
+菱H	菱K
