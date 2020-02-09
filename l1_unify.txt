@@ -538,3 +538,9 @@
 蠦.	蠦H
 衁.	衁H
 衈.	衈J
+# 衦 衧. not merged, for they're belonging to different ideographs
+衪.	衪H
+衯.	衯T
+袕.	袕T
+褐.	褐H
+褶.	褶H
