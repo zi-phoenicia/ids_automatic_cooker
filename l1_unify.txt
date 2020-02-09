@@ -523,3 +523,16 @@
 虢H	虢K
 虣H	虣J
 虨.	虨H
+虵.	虵T
+# 虶 虷 not merged, for they're belonging to different ideographs
+虻.	虻H
+蚐H	蚐K
+蚠.	蚠T
+蚡.	蚡T
+蚥.	蚥K
+蝄.	蝄T
+蝎.	蝎H
+螔H	螔K
+螮.	螮H
+蠍.	蠍H
+蠦.	蠦H
