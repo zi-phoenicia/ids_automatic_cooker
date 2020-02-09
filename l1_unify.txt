@@ -549,3 +549,13 @@
 覤H	覤K
 见.	见t
 觘J	觘T
+# 訏. 訐. not merged, for they're belonging to different ideographs
+# 訏J 訐J not merged, for they're belonging to different ideographs
+訑.	訑H
+訜.	訜T
+訬.	訬H
+謁.	謁H
+謔.	謔H
+謵.	謵H
+謼.	謼H
+譖J	譖K
