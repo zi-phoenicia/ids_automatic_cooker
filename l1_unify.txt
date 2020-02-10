@@ -30,7 +30,14 @@
 僀.	僀T
 僭.	僭J
 儢.	儢H
-儿.	儿w
+儿.	儿t	儿w
+兀.	兀t
+允.	允t
+兄.	兄t
+兆.	兆t
+光.	光t
+克.	克t
+兑.	兑t
 兓.	兓J
 八.	八T	八d
 冏H	冏J
@@ -58,6 +65,7 @@
 叒.	叒J	叒K
 史.	史K
 吂.	吂T
+各.	各d
 吏.	吏K
 吔.	吔H
 吩.	吩T
@@ -369,6 +377,8 @@
 瓐.	瓐H
 瓫.	瓫T
 甚H	甚J
+生.	生t
+甦.	甦K
 甿.	甿H
 畇H	畇K
 痧.	痧H
@@ -414,6 +424,7 @@
 立.	立.t
 立J	立st
 竕.	竕T
+竞	竞.t
 竧.	竧H
 竭.	竭H
 竹.	竹V
@@ -497,6 +508,7 @@
 芬.	芬J
 芬H	芬T
 苆.	苆J
+# 茖. 茗V not merged, for they're belonging to different ideographs
 茨K	茨T
 茰.	茰J
 茰H	茰K
@@ -523,7 +535,7 @@
 薐H	薐K
 蘆H	蘆K
 虍.	虍H
-虎H	虎J
+虎.yt	虎H	虎J	虎wyt
 虐.	虐H
 虑.	虑T
 虒H	虒J
@@ -539,6 +551,8 @@
 號H	號J
 虢H	虢K
 虣H	虣J
+虤H	虤J
+虥H	虥K
 虨.	虨H
 虵.	虵T
 # 虶 虷 not merged, for they're belonging to different ideographs
@@ -565,8 +579,10 @@
 褐.	褐H
 褶.	褶H
 襚J	襚K
+見.	見t
 覐.	覐J
 覒.	覒K
+覜.	覜J
 覤H	覤K
 见.	见t
 觘J	觘T
@@ -587,6 +603,7 @@
 豕.	豕d
 豖.	豖.d
 豖H	豖xd
+豗.	豗J
 豣.	豣J
 豦.	豦H
 貁.	貁T
@@ -594,6 +611,7 @@
 貧.	貧T
 資K	資T
 賝H	賝J
+贙H	贙K
 趴.	趴T
 踛H	踛K
 踜H	踜K
