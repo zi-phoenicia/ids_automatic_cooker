@@ -72,6 +72,7 @@
 ⺆	non-splittable	丿𠃌	0s1s	
 几	non-splittable	丿㇈	0s1s	
 ⺇	non-splittable	丿⺄	0s1s	
+𠘨	non-splittable	丿⺄	0s1s	
 !丘	non-splittable	丿丨	0e1s	
 !乐	non-splittable	丿𠃊	0e1s	
 !卬	non-splittable	丿𠄌	0e1s	
