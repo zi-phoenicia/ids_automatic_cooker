@@ -95,6 +95,7 @@
 !睂	non-splittable	丨一丿	0e1e 1s2s	
 口	non-splittable	丨𠃍一	0s1s 0e2s 1e2e	
 囗	non-splittable	丨𠃍一	0s1s 0e2s 1e2e	囗
+!𠃛	non-splittable	丨𠃌一	0s1s 0e2s	
 !亞1	non-splittable	𠃑一丨	0e1e 1s2s	
 凸	non-splittable	丨一丨㇎一	0s1s 1e2e 2s3s 0e4s 3e4e	
 凹	non-splittable	丨㇅丨𠃍一	0s1s 1e2e 2s3s 0e4s 3e4e	
