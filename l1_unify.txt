@@ -354,6 +354,7 @@
 父.	父K
 爸.	爸J
 爹.	爹J
+爺H	爺K
 爻.	爻J	爻d
 牠.	牠H
 牤.	牤T
@@ -640,4 +641,6 @@
 # 迀T 迂H not merged, for they're belonging to different ideographs
 逐J	逐V
 逤H	逤T
+# 邗 邘 not merged, for they're belonging to different ideographs
+邙.	邙H
 𧰨.	𧰨d

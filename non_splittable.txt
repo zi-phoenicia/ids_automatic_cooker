@@ -62,6 +62,7 @@
 卩p	non-splittable	𠃌丿	0s1s	
 !之	non-splittable	㇇㇝	0e1s	
 !辶H	non-splittable	㇋㇝	0e1s	
+阝	non-splittable	㇌丨	0s1s	
 𠃎	non-splittable	丨一	0e1e	
 ㄇ	non-splittable	丨𠃍	0s1s	
 冂	non-splittable	丨𠃌	0s1s	
