@@ -139,6 +139,7 @@
 孔.	孔V
 孤.	孤V
 孫.	孫V
+孺.	孺V
 # 宂H 穴.w not merged, for they're belonging to different ideographs
 射H	射V
 小.	小s
@@ -704,5 +705,7 @@
 陸H	陸J
 雀.	雀H
 雐.	雐T
+雰.	雰K
+雰H	雰T
 龶.	龶t
 𧰨.	𧰨d
