@@ -128,6 +128,7 @@
 孤.	孤V
 孫.	孫V
 # 宂H 穴.w not merged, for they're belonging to different ideographs
+射H	射V
 小.	小s
 尐.	尐H
 少.	少H
@@ -410,6 +411,7 @@
 立.	立.t
 立J	立st
 竕.	竕T
+竧.	竧H
 竭.	竭H
 竹.	竹V
 # 竽 竿 not merged, for they're belonging to different ideographs
@@ -554,6 +556,7 @@
 衪.	衪H
 衯.	衯T
 袕.	袕T
+裑.	裑H
 褐.	褐H
 褶.	褶H
 覐.	覐J
@@ -593,4 +596,10 @@
 蹛.	蹛H
 躆.	躆H
 躡H	躡J
+身.	身H
+身.y	身ty
+躬H	躬V
+躺H	躺V
+躽.	躽K
+軀J	軀V
 𧰨.	𧰨d
