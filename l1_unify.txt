@@ -643,4 +643,9 @@
 逤H	逤T
 # 邗 邘 not merged, for they're belonging to different ideographs
 邙.	邙H
+酏.	酏H
+# 酐. 酑 not merged, for they're belonging to different ideographs
+酚.	酚T
+醵.	醵H
+釁H	釁T
 𧰨.	𧰨d
