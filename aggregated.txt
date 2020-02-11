@@ -20984,18 +20984,18 @@
 鿯	⿳物人米
 #---- CJK Unified Ideographs 13.0
 # 鿰
-# 鿱
+鿱	⿰王巴
 # 鿲
-# 鿳
+鿳	⿰魚舵
 # 鿴
 # 鿵
-# 鿶
-# 鿷
-# 鿸
+鿶	⿰鱼良
+鿷	⿰鱼音
+鿸	⿰鱼舵
 # 鿹
 # 鿺
-# 鿻
-# 鿼
+鿻	⿰鼠布
+鿼	⿰鼠加
 #---- CJK Unified Ideographs Extension A
 # 㐀
 # 㐁
