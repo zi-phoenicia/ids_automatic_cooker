@@ -54,6 +54,7 @@
 匚	non-splittable	一𠃊	0s1s	
 !戉	non-splittable	一𠄌	0s1s	
 厂	non-splittable	一丿	0s1s	
+了	non-splittable	乛亅	0e1s	
 !皮	non-splittable	乛丿	0s1s	
 コ	non-splittable	𠃍一	0e1e	
 !斲3	non-splittable	𠃍𠃊	0s1s	
@@ -72,7 +73,9 @@
 !母	non-splittable	𠃊𠃌	0s1s	
 凵	non-splittable	𠃊丨	0e1e	
 ⺆	non-splittable	丿𠃌	0s1s	
-几	non-splittable	丿㇈	0s1s	
+𠘧	non-splittable	丿㇍	0s1s	
+几.	non-splittable	丿㇈	0s1s	
+几t	non-splittable	丿㇊	0s1s	
 ⺇	non-splittable	丿⺄	0s1s	
 𠘨	non-splittable	丿⺄	0s1s	
 !丘	non-splittable	丿丨	0e1s	
@@ -88,6 +91,7 @@
 !卐	non-splittable	一丨一	0s1s 1e2e	
 !馬	non-splittable	一丨𠃌	0s1s 1e2s	
 !叚	non-splittable	𠃍一丨	0e1e 0s2s	
+巳z	non-splittable	𠃍一𠃊	0e1e 0s2s	
 己.	non-splittable	𠃍一乚	0e1e 1s2s	
 巳.	non-splittable	𠃍一乚	0e1e 0s2s	
 巳w	non-splittable	𠃍一㇄	0e1e 0s2s	
