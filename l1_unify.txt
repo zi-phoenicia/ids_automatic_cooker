@@ -776,5 +776,11 @@
 驉H	驉K
 驢.	驢H
 马.	马t
+# 骬. 骭. not merged, for they're belonging to different ideographs
+# 骬J 骭H not merged, for they're belonging to different ideographs
+# 骬T 骭T not merged, for they're belonging to different ideographs
+骾.	骾V
+骾H	骾J
+髗H	髗J
 龶.	龶t
 𧰨.	𧰨d
