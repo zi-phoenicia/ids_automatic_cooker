@@ -30,6 +30,7 @@
 㛃.	㛃H
 㛐.	㛐K
 㛛.	㛛T
+㛪.	㛪T
 㜘.	㜘T
 㝸.	㝸J
 㞡.	㞡T
@@ -42,12 +43,14 @@
 㠭.	㠭h
 㠵.	㠵T
 㠺.	㠺K
+㡋.	㡋T
 㡫.	㡫T
 㢒.	㢒T
 # 㢨 弙 not merged, for they're belonging to different ideographs
 㢮.	㢮T
 㤋.	㤋T
 㤯J	㤯T
+# 㪀 攼 not merged, for they're belonging to different ideographs
 㸚.	㸚d
 䒑.	䒑t
 # 丁 丅 not merged, for they're belonging to different ideographs
@@ -96,9 +99,12 @@
 光.	光t
 克.	克t
 兑.	兑t
+兒.	兒t
 兓.	兓J
 八.	八T	八d
+其.	其n
 冏H	冏J
+冘.	冘t
 凌H	凌J
 凛.	凛T
 刄.	刄J
@@ -152,6 +158,7 @@
 哽.	哽J
 唦.	唦H
 唬H	唬K
+唵.	唵T
 啡.	啡H
 啩.	啩V
 啿H	啿J
@@ -191,6 +198,7 @@
 坴H	坴J
 坹.	坹T
 埂.	埂K
+埯.	埯T
 堨.	堨H
 堪H	堪J
 堯.	堯t
@@ -206,9 +214,11 @@
 夋K	夋T
 夌H	夌J
 夌K	夌T
+奄.	奄T
 奈.	奈T
 契.	契K
 契H	契T
+奙.	奙T
 奜.	奜K
 她.	她H
 妄.	妄H
@@ -256,6 +266,7 @@
 峺.	峺J
 崇.	崇T
 崚H	崚J
+崦.	崦T
 崺.	崺H
 嵁H	嵁K
 嵍.	嵍T
@@ -277,6 +288,7 @@
 幖.	幖T
 幵.	幵H
 幷.	幷J
+庵.	庵T
 廖.	廖H
 廗.	廗H
 廪.	廪T
@@ -350,6 +362,7 @@
 排.	排H
 掛.	掛V
 探H	探J
+掩.	掩T
 掰.	掰K
 揓.	揓H
 揕H	揕J
@@ -393,6 +406,7 @@
 # 旰 旴 not merged, for they're belonging to different ideographs
 昀H	昀K
 昐.	昐T
+晻.	晻T
 暃.	暃J
 暆.	暆H
 暍.	暍H
@@ -469,6 +483,7 @@
 止.	止t
 正.	正t
 歩.	歩J
+殗.	殗T
 殢.	殢H
 毑.	毑T
 毛.	毛t
@@ -499,6 +514,7 @@
 淩H	淩J
 深H	深J
 淲H	淲K
+淹.	淹T
 渄.	渄H
 渉.	渉J
 渴.	渴H
@@ -591,11 +607,13 @@
 甚H	甚J
 生.	生t
 甦.	甦K
+电.	电w
 甿.	甿H
 畇H	畇K
 疁.	疁T
 痧.	痧H
 痱.	痱H
+痷.	痷T
 瘛.	瘛T
 瘧.	瘧H
 瘭.	瘭T
@@ -630,6 +648,7 @@
 硬.	硬K
 硰.	硰H
 硻.	硻T
+硽.	硽T
 碂.	碂T
 碆.	碆T
 碣.	碣H
@@ -719,6 +738,7 @@
 罔.	罔H
 罔K	罔V
 罕H	罕J
+罨.	罨T
 罪.	罪H
 羊.p	羊tp
 羏.	羏K
@@ -758,6 +778,7 @@
 肸.	肸J
 肸H	肸T
 腁.	腁K
+腌H	腌T
 腓.	腓J
 腙H	腙T
 腱.	腱K
@@ -796,6 +817,7 @@
 莏H	莏T
 菱H	菱K
 菲.	菲J
+菴H	菴T
 萘H	萘T
 葐.	葐K
 葐H	葐T
@@ -879,6 +901,7 @@
 裴J	裴V
 裵.	裵H
 裶.	裶H
+裺.	裺T
 褉H	褉T
 褐.	褐H
 褶.	褶H
@@ -973,6 +996,7 @@
 酏.	酏H
 # 酐. 酑 not merged, for they're belonging to different ideographs
 酚.	酚T
+醃.	醃T
 醥.	醥T
 醪.	醪H
 醵.	醵H
@@ -1055,6 +1079,7 @@
 飄H	飄T
 馚.	馚T
 馡.	馡H
+馣.	馣T
 馤.	馤H
 馳.	馳H
 駛.	駛J
@@ -1106,9 +1131,11 @@
 鱮.	鱮H
 鱸.	鱸H
 鱼.	鱼t
+鴆.	鴆V
 鴥.	鴥T
 鵅.	鵅J
 鵉.	鵉H
+鶂.	鶂K
 鶡.	鶡H
 鷈H	鷈K
 鷚.	鷚H
@@ -1123,6 +1150,7 @@
 麺.	麺V
 黑.	黑t
 黓.	黓H
+黕.	黕H
 黖.	黖H
 黗.	黗T
 默.	默H
@@ -1132,6 +1160,7 @@
 點.	點H
 黟.	黟H
 黢.	黢T
+黤.	黤H	黤T
 黥.	黥H
 黬.	黬T
 黭.	黭H
