@@ -19748,15 +19748,15 @@
 # 鬢
 鬣	⿳髟巛⿱囚⿲𠄌二⿲𠄌二㇂
 # 鬤
-# 鬥
-# 鬦
-# 鬧
+鬥	⿲丨王⿰王亅
+鬦	⿵鬥斗
+鬧	⿵鬥市
 # 鬨
 # 鬩
 # 鬪
 # 鬫
-# 鬬
-# 鬭
+鬬	⿵鬥⿰⿱!斲2㇀斤
+鬭	⿵鬥⿰⿱⿰⿹!斲3匚⿸!叚コ㇀斤
 # 鬮
 # 鬯
 # 鬰
@@ -94300,6 +94300,8 @@
 !卬	# non-splittable	丿𠄌 0e1s 
 !叚	# non-splittable	𠃍一丨 0e1e 0s2s 
 !戉	# non-splittable	一𠄌 0s1s 
+!斲2	# non-splittable	丨𠃍一一丨一𠃑𠃑一丨 0s1s 0e2s 1e3e 2e4s 4e5e 5s6s 3s7s 7e8e 8s9s 
+!斲3	# non-splittable	𠃍𠃊 0s1s 
 !毌	# non-splittable	𠃊𠃍 0s1s 0e1e 
 !母	# non-splittable	𠃊𠃌 0s1s 
 !皮	# non-splittable	乛丿 0s1s 
