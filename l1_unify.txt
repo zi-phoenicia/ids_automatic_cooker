@@ -6,6 +6,14 @@
 # 㐵 仠 not merged, for they're belonging to different ideographs
 㑗.	㑗T
 㒛.	㒛T
+㒵.	㒵T
+㒶.	㒶T
+㒸.	㒸d
+㒾.	㒾T
+㓁H	㓁K
+㓏K	㓏T
+㓭.	㓭T
+㔠.	㔠T
 䒑.	䒑t
 # 丁 丅 not merged, for they're belonging to different ideographs
 七.	七T	七t
@@ -30,6 +38,8 @@
 侫.	侫H
 倰H	倰J
 健.	健K
+偰.	偰K
+偰H	偰T
 傂H	傂K
 僀.	僀T
 僇.	僇H
@@ -95,6 +105,8 @@
 啡.	啡H
 啿H	啿J
 喝.	喝H
+喫.	喫K
+喫H	喫T
 嗁H	嗁J
 嗕.	嗕H
 嘐.	嘐H
@@ -111,6 +123,7 @@
 嚧.	嚧H
 嚹.	嚹H
 囐.	囐H
+囓.	囓T
 四.	四J
 囧H	囧J
 圂.	圂J
@@ -136,6 +149,8 @@
 夋K	夋T
 夌H	夌J
 夌K	夌T
+契.	契K
+契H	契T
 奜.	奜K
 她.	她H
 妄.	妄H
@@ -222,6 +237,7 @@
 忿.	忿T
 怬.	怬K
 怹.	怹H
+恝.	恝T
 恣J	恣T
 恳.	恳T
 悱.	悱H
@@ -262,6 +278,8 @@
 揕H	揕J
 揖.	揖J
 揭.	揭H
+揳.	揳K
+揳H	揳T
 揵.	揵J
 搋H	搋K
 摎.	摎H
@@ -321,6 +339,7 @@
 柂.	柂H
 柶.	柶J
 柼.	柼T
+栔.	栔K
 栾.	栾H
 桫.	桫H
 梗.	梗K
@@ -336,6 +355,8 @@
 椕.	椕T
 椸.	椸H
 椹H	椹J
+楔.	楔J
+楔H	楔T
 楗.	楗J
 楫.	楫J
 楬.	楬H
@@ -379,6 +400,7 @@
 波.	波d
 泬.	泬T
 洱.	洱J
+浫K	浫T
 浭.	浭K
 浻H	浻K
 淕H	淕J
@@ -438,6 +460,8 @@
 猅.	猅T
 猆.	猆T
 猇H	猇J
+猰.	猰K
+猰H	猰T
 猲.	猲H
 獹.	獹T
 獻.	獻H
@@ -467,6 +491,7 @@
 疁.	疁T
 痧.	痧H
 痱.	痱H
+瘛.	瘛T
 瘧.	瘧H
 瘳.	瘳H
 癠.	癠H
@@ -498,6 +523,7 @@
 碆.	碆T
 碣.	碣H
 碪H	碪J
+碶.	碶K
 磃H	磃K
 磖.	磖T
 磟.	磟H
@@ -508,12 +534,14 @@
 稉.	稉J
 稑H	稑J
 稜H	稜J
+稧.	稧K
 穋.	穋H
 穥.	穥H
 穧.	穧H
 穫J	穫V
 穴.	穴T
 穴J	穴K
+窫H	窫T
 立.	立.t
 立J	立st
 竕.	竕T
@@ -566,6 +594,7 @@
 罏.	罏H
 罔.	罔H
 罔K	罔V
+罕H	罕J
 罪.	罪H
 羊.p	羊tp
 羏.	羏K
@@ -640,6 +669,8 @@
 葐H	葐T
 葚H	葚K
 葛H	葛K
+葜.	葜J
+葜H	葜T
 葺.	葺J
 蒶H	蒶T
 蔆H	蔆K
@@ -701,6 +732,7 @@
 袘.	袘H
 裑.	裑H
 裶.	裶H
+褉H	褉T
 褐.	褐H
 褶.	褶H
 襚J	襚K
@@ -711,6 +743,7 @@
 覤H	覤K
 见.	见t
 觘J	觘T
+觢H	觢T
 # 訏. 訐. not merged, for they're belonging to different ideographs
 # 訏J 訐J not merged, for they're belonging to different ideographs
 訑.	訑H
@@ -807,6 +840,8 @@
 錂H	錂J
 錴H	錴J
 鍖H	鍖J
+鍥.	鍥J
+鍥H	鍥T
 鍦.	鍦H
 鍵.	鍵K
 鍻.	鍻H
@@ -929,6 +964,7 @@
 齍H	齍T
 齎.	齎H
 齏.	齏H
+齧.	齧T
 龟.	龟H
 龶.	龶t
 𧰨.	𧰨d
