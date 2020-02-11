@@ -68,6 +68,7 @@
 # 于 干 not merged, for they're belonging to different ideographs
 亘.	亘t
 亚.	亚t
+亞.	亞t
 # 亠. 冫 not merged, for they're belonging to different ideographs
 亡.	亡H
 亡J	亡V
@@ -372,6 +373,7 @@
 揳H	揳T
 揵.	揵J
 搋H	搋K
+搤.	搤J
 摎.	摎H
 摕.	摕T
 摢.	摢T
@@ -680,14 +682,9 @@
 穴.	穴T
 穴J	穴K
 窫H	窫T
-立.	立.t
-立J	立st
-竕.	竕T
 竞	竞.t
 竟.	竟.t
 竟J	竟st
-竧.	竧H
-竭.	竭H
 竹.	竹V
 # 竽 竿 not merged, for they're belonging to different ideographs
 竾.	竾H
@@ -934,9 +931,6 @@
 讞.	讞H
 谻.	谻K
 豂.	豂H
-豆.	豆t
-豈.	豈t
-豊.	豊t
 豕.	豕d
 豖.	豖.d
 豖H	豖xd
