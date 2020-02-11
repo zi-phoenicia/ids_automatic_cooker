@@ -101,6 +101,7 @@
 囗	non-splittable	丨𠃍一	0s1s 0e2s 1e2e	囗
 !𠃛	non-splittable	丨𠃌一	0s1s 0e2s	
 !亞1	non-splittable	𠃑一丨	0e1e 1s2s	
+!龍	non-splittable	𠃑一乚	0e1e 1s2s	
 !黽0	non-splittable	丨𠃍一一	0s1s 0e2s 1e3e	
 !烏0	non-splittable	丨𠃍一𠃌	0s1s 1e2e 0e3s	
 !雋	non-splittable	丨㇅丨𠃌	0s1s 1e2e 2s3s	
