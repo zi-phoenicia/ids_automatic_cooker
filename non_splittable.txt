@@ -107,4 +107,5 @@
 !雋	non-splittable	丨㇅丨𠃌	0s1s 1e2e 2s3s	
 凸	non-splittable	丨一丨㇎一	0s1s 1e2e 2s3s 0e4s 3e4e	
 凹	non-splittable	丨㇅丨𠃍一	0s1s 1e2e 2s3s 0e4s 3e4e	
+!龜0	non-splittable	丨𠃍一一乚丨	0s1s 0e2s 1e3e 2e4s 3s5s	
 !斲2	non-splittable	丨𠃍一一丨一𠃑𠃑一丨	0s1s 0e2s 1e3e 2e4s 4e5e 5s6s 3s7s 7e8e 8s9s	
