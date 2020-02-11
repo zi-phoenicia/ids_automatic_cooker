@@ -21003,7 +21003,7 @@
 # 㐃
 㐄	⿻丨匸
 㐅	⿻丿丶
-# 㐆
+㐆	⿸𠂆⿱彐𠃌
 # 㐇
 # 㐈
 # 㐉
@@ -94326,6 +94326,7 @@
 入.	# non-splittable	丿乀 0s1s 入
 人d	# non-splittable	丿丶 0s1s 
 入H	# non-splittable	丿㇝ 0s1s 
+△	# non-splittable	𠃋丶 0s1s 0e1e 
 己.	# non-splittable	𠃍一乚 0e1e 1s2s 
 巳.	# non-splittable	𠃍一乚 0e1e 0s2s 
 巳w	# non-splittable	𠃍一㇄ 0e1e 0s2s 
