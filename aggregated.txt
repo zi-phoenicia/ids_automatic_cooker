@@ -93522,16 +93522,16 @@
 # 兀
 # 嗀
 #---- CJK Unified Ideographs in CJK Compatibility Ideographs
-# 﨎
+﨎	⿱⿰文隹又
 # 﨏
 #---- CJK Compatibility Ideographs
 # 塚
 #---- CJK Unified Ideographs in CJK Compatibility Ideographs
-# 﨑
+﨑	⿰山竒
 #---- CJK Compatibility Ideographs
 # 晴
 #---- CJK Unified Ideographs in CJK Compatibility Ideographs
-# 﨓
+﨓	⿰木苻
 # 﨔
 #---- CJK Compatibility Ideographs
 # 凞
@@ -93549,18 +93549,18 @@
 #---- CJK Compatibility Ideographs
 # 蘒
 #---- CJK Unified Ideographs in CJK Compatibility Ideographs
-# 﨡
+﨡	⿰虫生
 #---- CJK Compatibility Ideographs
 # 諸
 #---- CJK Unified Ideographs in CJK Compatibility Ideographs
-# 﨣
-# 﨤
+﨣	⿺走斗
+﨤	⿺辶及
 #---- CJK Compatibility Ideographs
 # 逸
 # 都
 #---- CJK Unified Ideographs in CJK Compatibility Ideographs
 # 﨧
-# 﨨
+﨨	⿰金幸
 # 﨩
 #---- CJK Compatibility Ideographs
 # 飯
