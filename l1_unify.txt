@@ -14,6 +14,7 @@
 㓏K	㓏T
 㓭.	㓭T
 㔠.	㔠T
+㔺.	㔺J
 䒑.	䒑t
 # 丁 丅 not merged, for they're belonging to different ideographs
 七.	七T	七t

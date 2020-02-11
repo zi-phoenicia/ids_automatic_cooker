@@ -59,6 +59,7 @@
 !斲3	non-splittable	𠃍𠃊	0s1s	
 !辶.	non-splittable	𠃍㇝	0e1s	
 卩.	non-splittable	𠃌丨	0s1s	
+㔾	non-splittable	𠃌乚	0s1s	
 !乌0	non-splittable	𠃌㇉	0s1s	
 卩p	non-splittable	𠃌丿	0s1s	
 !之	non-splittable	㇇㇝	0e1s	
