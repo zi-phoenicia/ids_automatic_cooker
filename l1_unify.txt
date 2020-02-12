@@ -50,13 +50,58 @@
 㢮.	㢮T
 㤋.	㤋T
 㤯J	㤯T
+㤿.	㤿T
+㥱.	㥱T
+㥹.	㥹T
+㦅.	㦅T
+㦆.	㦆T
+㦌.	㦌T
+㦴.	㦴K
+㦻.	㦻T
+㦾J	㦾T
+㧒.	㧒T
+㧳.	㧳T
+㧶.	㧶T
+㨘.	㨘H
+㨜.	㨜T
+㨿.	㨿T
+㩦H	㩦K
+㩵.	㩵T
 # 㪀 攼 not merged, for they're belonging to different ideographs
+㫵.	㫵H
+㬓.	㬓T
+㬔.	㬔T
+㬞.	㬞T
+# 㬵J 胶J not merged, for they're belonging to different ideographs
+㭺.	㭺T
+㮈J	㮈T
+㯂.	㯂H
+㯉.	㯉T
+㯫.	㯫T
+㯻.	㯻K
+㱁.	㱁T
+㱄.	㱄T
+㱈.	㱈T
+㱺.	㱺T
+㲎.	㲎T
+㲡.	㲡T
+㲼.	㲼J
+㳗K	㳗T
+㴎.	㴎T
+㴲H	㴲J
+㵣.	㵣T
+㵱.	㵱T
+㵳.	㵳T
+㷈.	㷈T
+㷎.	㷎T
+㷾.	㷾T
 㸚.	㸚d
 䒑.	䒑t
 # 丁 丅 not merged, for they're belonging to different ideographs
 七.	七T	七t
 丈.	丈K
 且.	且d
+丘.	丘t
 业.	业t
 並.	並t
 丰.	丰.t
@@ -72,6 +117,7 @@
 # 亠. 冫 not merged, for they're belonging to different ideographs
 亡.	亡H
 亡J	亡V
+交J	交K
 亾.	亾T
 他.	他H
 仗.	仗J
@@ -139,6 +185,7 @@
 双.	双d	双n
 叒.	叒J	叒K
 叕.	叕J	叕K
+叚.	叚d
 史.	史K
 吂.	吂T
 各.	各d
@@ -152,6 +199,7 @@
 咃.	咃T
 咠.	咠J
 咡.	咡J
+咬J	咬K
 哋.	哋H
 哎.	哎J
 哎H	哎K
@@ -354,6 +402,7 @@
 扨J	扨T
 扮.	扮T
 抄.	抄H
+拖.	拖H
 挕.	挕V
 挘.	挘H
 挭.	挭J
@@ -380,6 +429,7 @@
 摺.	摺H
 摺J	摺K
 摽.	摽T
+撬.	撬H
 擄.	擄H
 據.	據H
 擠.	擠H
@@ -411,6 +461,7 @@
 晻.	晻T
 暃.	暃J
 暆.	暆H
+暇.	暇V
 暍.	暍H
 曜.	曜H
 曥.	曥T
@@ -438,6 +489,7 @@
 柶.	柶J
 柼.	柼T
 栔.	栔K
+校J	校K
 栾.	栾H
 桫.	桫H
 梗.	梗K
@@ -467,6 +519,7 @@
 槥H	槥J
 標.	標T
 樛.	樛H
+橇.	橇H
 橘H	橘J
 檌.	檌H
 檦.	檦T
@@ -491,6 +544,7 @@
 毛.	毛t
 毟.	毟J
 毮.	毮J
+毳.	毳H
 毴.	毴T
 毼.	毼H
 毽.	毽K
@@ -503,6 +557,7 @@
 池.	池H
 汾.	汾T
 沙.	沙H
+沲.	沲H
 沶.	沶T
 泗.	泗J
 波.	波d
@@ -574,6 +629,7 @@
 狋.	狋T
 狏.	狏T
 狖.	狖T
+狡J	狡K
 猀.	猀H
 猅.	猅T
 猆.	猆T
@@ -662,6 +718,7 @@
 磡H	磡J
 磦.	磦T
 礜.	礜H
+礮J	礮K
 示.	示T
 祂.	祂H
 祟.	祟T
@@ -682,9 +739,14 @@
 穴.	穴T
 穴J	穴K
 窫H	窫T
+立.	立.t
+立J	立st
+竕.	竕T
 竞	竞.t
 竟.	竟.t
 竟J	竟st
+竧.	竧H
+竭.	竭H
 竹.	竹V
 # 竽 竿 not merged, for they're belonging to different ideographs
 竾.	竾H
@@ -719,6 +781,7 @@
 紛.	紛T
 紛J	紛K
 絁.	絁H
+絞J	絞K
 綜.	綜T
 網.	網H
 網J	網V
@@ -782,6 +845,7 @@
 膘H	膘T
 膚.	膚H
 膠J	膠V
+膬.	膬K
 臍H	臍T
 臤.	臤d
 至.	至t
@@ -846,6 +910,7 @@
 虔J	虔K
 處.	處H
 虖.	虖H
+虗.	虗T
 虘.	虘T
 虙.	虙H
 虚.	虚T
@@ -968,6 +1033,7 @@
 躺H	躺V
 躽.	躽K
 軀J	軀V
+較J	較K
 輘H	輘J
 輞.	輞H
 輧.	輧K
@@ -1056,6 +1122,7 @@
 雰.	雰K
 雰H	雰T
 霏.	霏J
+霞.	霞V
 非.	非H
 靟.	靟H
 靠.	靠T
@@ -1069,8 +1136,6 @@
 頫.	頫J
 顠.	顠T
 顤.	顤K
-飃H	飃T
-飄H	飄T
 馚.	馚T
 馡.	馡H
 馣.	馣T
@@ -1107,6 +1172,7 @@
 魖H	魖J
 魦.	魦H
 魵.	魵T
+鮫J	鮫K
 鯁.	鯁J
 鯊.	鯊H
 鯋.	鯋K
