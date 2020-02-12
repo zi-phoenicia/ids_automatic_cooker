@@ -125,6 +125,11 @@
 䄋.	䄋T
 䄐.	䄐T
 䄟.	䄟T
+# 䄨 秆 not merged, for they're belonging to different ideographs
+䄬.	䄬T
+䅖.	䅖T
+䅥.	䅥T
+䅺.	䅺T
 䒑.	䒑t
 # 丁 丅 not merged, for they're belonging to different ideographs
 七.	七T	七t
@@ -928,6 +933,7 @@
 薐H	薐K
 薸H	薸T
 薺H	薺T
+藒H	藒K
 蘆H	蘆K
 虍.	虍H
 虎.yt	虎H	虎J	虎wyt
