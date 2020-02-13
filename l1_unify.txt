@@ -147,6 +147,11 @@
 # 䏏T 肝H not merged, for they're belonging to different ideographs
 䏚.	䏚K
 䒑.	䒑t
+䒔.	䒔J
+䔅.	䔅V
+䔖H	䔖K
+䔽H	䔽J
+䕯K	䕯T
 # 丁 丅 not merged, for they're belonging to different ideographs
 七.	七T	七t
 丈.	丈K
