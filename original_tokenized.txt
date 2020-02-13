@@ -30866,6 +30866,14 @@
 䘌T	⿱ 匿H 䖵	
 䘍.	⿱ 萬. 䖵	
 䘍T	⿱ 萬H 䖵	
+䘏	⿰ 血t 阝	
+䘐	⿰ 血t 刅	
+䘑	⿰ 血t 永.	
+䘒.	⿰ 血t 夋.	
+䘒T	⿰ 血t 夋T	
+䘓	⿰ 血t 臽.	
+䘔.	⿰ 血t 客.	
+䘔K	⿰ 血t 客J	
 
 # missing following components
 # ⻇ ['𠕎']
