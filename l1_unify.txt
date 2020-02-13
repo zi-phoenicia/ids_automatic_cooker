@@ -152,6 +152,16 @@
 䔖H	䔖K
 䔽H	䔽J
 䕯K	䕯T
+䖉.	䖉T
+䖍J	䖍T
+䖎J	䖎T
+䖏.	䖏T
+䖐K	䖐T
+䖒.	䖒T
+䖓J	䖓T
+䖗.	䖗T
+䖚K	䖚T
+䖜K	䖜T
 # 丁 丅 not merged, for they're belonging to different ideographs
 七.	七T	七t
 丈.	丈K
