@@ -174,6 +174,10 @@
 䝯.	䝯T
 䞦.	䞦H
 䞸.	䞸T
+䟙.	䟙K
+䠊.	䠊T
+䠠.	䠠T
+䠡.	䠡T
 # 丁 丅 not merged, for they're belonging to different ideographs
 七.	七T	七t
 丈.	丈K
