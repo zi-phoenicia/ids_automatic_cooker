@@ -135,6 +135,11 @@
 䉘.	䉘T
 䊫.	䊫T
 䊮.	䊮T
+䊶.	䊶T
+䋉.	䋉T
+䋵.	䋵T
+䌌.	䌌T
+䌦.	䌦T
 䒑.	䒑t
 # 丁 丅 not merged, for they're belonging to different ideographs
 七.	七T	七t
