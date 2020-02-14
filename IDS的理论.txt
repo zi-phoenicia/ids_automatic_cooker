@@ -44,3 +44,18 @@ https://docs.google.com/spreadsheets/d/1652K_tSJ1JTybxefJTIEscfTicGMEIqkrryZ-IC5
 
 排序基准：1.总笔画少，2.动作简单（stroke -> non-splittable -> IDS），3.最左的简单（递归调用头两条）
 散的时候，只需要尝试使排序到前面的动作。聚的时候，任何的变换都要尝试。
+
+
+
+
+定义：
+Glyph 字形。在本系统中意义为字形的IDS分解与其含义。
+表示为 IDS分解+字形附加符+字义附加符
+
+Character 的一个码位
+属于同一个Character的Glyph有如下三种情况：
+1. Glyph出现在Code Chart中
+2. Glyph在其他Character中发生了认同
+3. Glyph是1或2的粗笔画认同变体
+
+Unifiable Characters：拥有相同字义的Character的集合。Unicode中没有认同到一个码位的Character的集合。

@@ -52,6 +52,7 @@
 㤋.	㤋T
 㤯J	㤯T
 㤿.	㤿T
+㥛K	㥛T
 㥱.	㥱T
 㥹.	㥹T
 㦅.	㦅T
@@ -221,6 +222,7 @@
 亘.	亘t
 亚.	亚t
 亞.	亞t
+亟H	亟J
 # 亠. 冫 not merged, for they're belonging to different ideographs
 亡.	亡H
 亡J	亡V
@@ -531,6 +533,7 @@
 揵.	揵J
 搋H	搋K
 搤.	搤J
+摂.	摂J
 摎.	摎H
 摕.	摕T
 摢.	摢T
@@ -558,6 +561,7 @@
 斐J	斐K	斐V
 斟H	斟J
 斧.	斧K
+斵.	斵J
 施.	施H
 旚.	旚T
 旡.	旡t
@@ -620,6 +624,7 @@
 楘.	楘K
 楫.	楫J
 楬.	楬H
+極H	極J
 榧.	榧H
 榩.	榩H
 榹H	榹K
