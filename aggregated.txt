@@ -94290,7 +94290,7 @@
 !丘	# non-splittable	丿丨 0e1s 
 !之	# non-splittable	㇇㇝ 0e1s 
 !乌0	# non-splittable	𠃌㇉ 0s1s 
-!乐	# non-splittable	丿𠃊 0e1s 
+!乐	∎
 !亞0	# non-splittable	丨一𠃑 0e1e 1s2s 
 !亞1	# non-splittable	𠃑一丨 0e1e 1s2s 
 !北.	⿰⿱一㇀丨
@@ -94333,6 +94333,8 @@
 卩p	# non-splittable	𠃌丿 0s1s 
 几.	# non-splittable	丿㇈ 0s1s 
 几t	# non-splittable	丿㇊ 0s1s 
+!乐.	# non-splittable	丿𠃊 0e1s 
+!乐w	# non-splittable	丿㇄ 0e1s 
 人.	# non-splittable	丿乀 0s1s 
 入.	# non-splittable	丿乀 0s1s 入
 人d	# non-splittable	丿丶 0s1s 
