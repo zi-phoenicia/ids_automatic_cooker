@@ -94328,6 +94328,7 @@
 ┤	⿰一丨
 ╪	⿻丨二
 △	# non-splittable	𠃋丶 0s1s 0e1e 
+!𠁾	# non-splittable	𠃍𠄌 0s1s 
 卩.	# non-splittable	𠃌丨 0s1s 
 卩p	# non-splittable	𠃌丿 0s1s 
 几.	# non-splittable	丿㇈ 0s1s 
@@ -94342,5 +94343,6 @@
 巳w	# non-splittable	𠃍一㇄ 0e1e 0s2s 
 己t	# non-splittable	𠃍一𠄌 0e1e 1s2s 
 巳t	# non-splittable	𠃍一𠄌 0e1e 0s2s 
+!𠂂	# non-splittable	〇𠃍一丨 0s1s 1e2e 2s3s 
 㠯.	# non-splittable	𠃍一丨𠃍一 0s2s 0e1e 2e4s 3e4e 
 㠯T	# non-splittable	𠃍一丨𠃍一 0e1e 1s2s 2e4s 3e4e 
