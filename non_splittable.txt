@@ -15,10 +15,10 @@
 𠃍	stroke			
 𠃌	stroke			
 ㇅	stroke			
-㇍	stroke			
 ㇈	stroke			
 ㇎	stroke			
 ㇊	stroke			
+㇍	stroke			
 !专	stroke			横折撇
 ㇇	stroke			
 乙	stroke			
@@ -34,6 +34,8 @@
 ㇄	stroke			
 乚	stroke			
 ㇘	stroke			
+!𠀀.	stroke			
+!𠀀T	stroke			
 𠃑	stroke			
 ㇉	stroke			
 𠄌	stroke			
@@ -58,6 +60,7 @@
 !皮	non-splittable	乛丿	0s1s	
 コ	non-splittable	𠃍一	0e1e	
 !斲3	non-splittable	𠃍𠃊	0s1s	
+!𠀟	non-splittable	𠃍㇉	0s1s	
 !辶.	non-splittable	𠃍㇝	0e1s	
 卩.	non-splittable	𠃌丨	0s1s	
 㔾	non-splittable	𠃌乚	0s1s	
@@ -73,9 +76,9 @@
 !母	non-splittable	𠃊𠃌	0s1s	
 凵	non-splittable	𠃊丨	0e1e	
 ⺆	non-splittable	丿𠃌	0s1s	
-𠘧	non-splittable	丿㇍	0s1s	
 几.	non-splittable	丿㇈	0s1s	
 几t	non-splittable	丿㇊	0s1s	
+𠘧	non-splittable	丿㇍	0s1s	
 𠘨	non-splittable	丿⺄	0s1s	
 !丘	non-splittable	丿丨	0e1s	
 !乐	non-splittable	丿𠃊	0e1s	
@@ -110,9 +113,11 @@
 !黽0	non-splittable	丨𠃍一一	0s1s 0e2s 1e3e	
 !烏0	non-splittable	丨𠃍一𠃌	0s1s 1e2e 0e3s	
 !雋	non-splittable	丨㇅丨𠃌	0s1s 1e2e 2s3s	
+!𠁁0	non-splittable	𠃊𠃍一𠃑	0s1s 1e2e 2s3s	
 㠯.	non-splittable	𠃍一丨𠃍一	0s2s 0e1e 2e4s 3e4e	
 㠯T	non-splittable	𠃍一丨𠃍一	0e1e 1s2s 2e4s 3e4e	
 凸	non-splittable	丨一丨㇎一	0s1s 1e2e 2s3s 0e4s 3e4e	
 凹	non-splittable	丨㇅丨𠃍一	0s1s 1e2e 2s3s 0e4s 3e4e	
 !龜0	non-splittable	丨𠃍一一乚丨	0s1s 0e2s 1e3e 2e4s 3s5s	
+!𠁁1	non-splittable	丨𠃍一𠃍一丨	0s1s 1e2e 0e3s 3s4e 4s5s	
 !斲2	non-splittable	丨𠃍一一丨一𠃑𠃑一丨	0s1s 0e2s 1e3e 2e4s 4e5e 5s6s 3s7s 7e8e 8s9s	
