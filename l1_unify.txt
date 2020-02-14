@@ -240,6 +240,7 @@
 业.	业t
 並.	並t
 # 丩 𠄍 not merged, for they're belonging to different ideographs
+# 个 𠆤 not merged, for they're belonging to different ideographs
 丰.	丰.t
 义.	义K
 乜.	乜H
@@ -1394,5 +1395,6 @@
 𠃒T	𠃒U
 𠄽U	𠄽V
 𠅬.	𠅬U
+𠆦.	𠆦T
 𧘇.	𧘇d
 𧰨.	𧰨d
