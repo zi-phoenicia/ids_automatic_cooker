@@ -48,6 +48,7 @@
 ㇓	stroke			
 乀	stroke			
 ㇂	stroke			
+!◇	stroke			
 丶	stroke			
 ㇃	stroke			
 ㇝	stroke			
@@ -93,6 +94,7 @@
 人d	non-splittable	丿丶	0s1s	
 入H	non-splittable	丿㇝	0s1s	
 △	non-splittable	𠃋丶	0s1s 0e1e	
+◇	non-splittable	𡿨〇	0s1s	
 冖	non-splittable	丶乛	0s1s	
 !卐	non-splittable	一丨一	0s1s 1e2e	
 !馬	non-splittable	一丨𠃌	0s1s 1e2s	
