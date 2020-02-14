@@ -200,6 +200,7 @@
 䩀.	䩀T
 䩁.	䩁T
 # 䩒 靬 not merged, for they're belonging to different ideographs
+䪡K	䪡T
 䪧.	䪧T
 䫃.	䫃K
 䫍.	䫍T
@@ -238,6 +239,7 @@
 丘.	丘t
 业.	业t
 並.	並t
+# 丩 𠄍 not merged, for they're belonging to different ideographs
 丰.	丰.t
 义.	义K
 乜.	乜H
@@ -1387,5 +1389,8 @@
 𠀋.	𠀋J
 𠁝U	𠁝V
 𠁟U	𠁟V
+𠂏.	𠂏T
+𠂠.	𠂠T
+𠃒T	𠃒U
 𧘇.	𧘇d
 𧰨.	𧰨d
