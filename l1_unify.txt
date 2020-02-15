@@ -1634,5 +1634,10 @@
 𠯦.	𠯦V
 # 𠯴 𠯿H not merged, for they're belonging to different ideographs
 𠱌U	𠱌V
+𠲳.	𠲳T
+𠴕H	𠴕U
+𠴮.	𠴮T
+𠴻.	𠴻T
+𠵓T	𠵓U
 𧘇.	𧘇d
 𧰨.	𧰨d
