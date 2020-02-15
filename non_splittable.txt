@@ -77,6 +77,7 @@
 冂	non-splittable	丨𠃌	0s1s	
 !毌	non-splittable	𠃊𠃍	0s1s 0e1e	
 !母	non-splittable	𠃊𠃌	0s1s	
+!𠌆	non-splittable	𠃊㇇	0s1s	
 凵	non-splittable	𠃊丨	0e1e	
 ⺆	non-splittable	丿𠃌	0s1s	
 几.	non-splittable	丿㇈	0s1s	
