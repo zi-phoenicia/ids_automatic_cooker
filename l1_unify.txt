@@ -725,6 +725,7 @@
 氄H	氄J
 氓.	氓H
 氛.	氛J
+氺.	氺s
 汃.	汃T
 汒.	汒H
 # 汗 汙 not merged, for they're belonging to different ideographs
@@ -1501,5 +1502,6 @@
 𠛸.	𠛸T
 𠜞.	𠜞U
 𠟱.	𠟱T
+𠠇J	𠠇T
 𧘇.	𧘇d
 𧰨.	𧰨d
