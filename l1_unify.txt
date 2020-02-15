@@ -1560,6 +1560,7 @@
 𠁟U	𠁟V
 𠂏.	𠂏T
 𠂠.	𠂠T
+# 𠂿 𠦬 not merged, for they're belonging to different ideographs
 𠃒T	𠃒U
 𠄽U	𠄽V
 𠅬.	𠅬U
