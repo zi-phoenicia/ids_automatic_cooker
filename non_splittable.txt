@@ -103,6 +103,7 @@
 !卐	non-splittable	一丨一	0s1s 1e2e	
 !馬	non-splittable	一丨𠃌	0s1s 1e2s	
 !叚	non-splittable	𠃍一丨	0e1e 0s2s	
+!𠦁	non-splittable	𠃍一丨	0e1e 1s2s	
 巳z	non-splittable	𠃍一𠃊	0e1e 0s2s	
 己.	non-splittable	𠃍一乚	0e1e 1s2s	
 巳.	non-splittable	𠃍一乚	0e1e 0s2s	
