@@ -396,6 +396,7 @@
 哎H	哎K
 哥.	哥J
 哧.	哧H
+# 哻 𠳲 not merged, for they're belonging to different ideographs
 哽.	哽J
 唦.	唦H
 唬H	唬K
@@ -492,6 +493,7 @@
 嬴H	嬴T
 子.	子t
 孔.	孔V
+孖.	孖t
 孤.	孤V
 孪.	孪T
 孫.	孫V
@@ -853,6 +855,7 @@
 炧.	炧H
 烎H	烎T
 烱H	烱J
+焏.	焏J
 焧.	焧T
 焹.	焹T
 煁H	煁J
@@ -1626,5 +1629,9 @@
 𠬬T	𠬬U
 𠬲.	𠬲U
 𠭥.	𠭥T
+𠯎.	𠯎U
+𠯦.	𠯦V
+# 𠯴 𠯿H not merged, for they're belonging to different ideographs
+𠱌U	𠱌V
 𧘇.	𧘇d
 𧰨.	𧰨d
