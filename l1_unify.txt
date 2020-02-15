@@ -279,6 +279,7 @@
 义.	义K
 # 乎 𠂟 not merged, for they're belonging to different ideographs
 乜.	乜H
+# 乞 𠧒 not merged, for they're belonging to different ideographs
 也.	也H
 习.	习z
 乸.	乸H
@@ -1613,5 +1614,7 @@
 𠥖.	𠥖T
 𠦄.	𠦄U
 𠦌.	𠦌T
+𠧞.	𠧞U
+𠧼.	𠧼T
 𧘇.	𧘇d
 𧰨.	𧰨d
