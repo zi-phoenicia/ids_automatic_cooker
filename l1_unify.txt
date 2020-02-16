@@ -279,6 +279,7 @@
 # 丩 𠄍 not merged, for they're belonging to different ideographs
 # 个 𠆤 not merged, for they're belonging to different ideographs
 丰.	丰.t
+久.	久d
 义.	义K
 # 乎 𠂟 not merged, for they're belonging to different ideographs
 乜.	乜H
@@ -361,6 +362,7 @@
 匃.	匃T
 匄.	匄H
 匕T	匕th
+匛.	匛J
 匜.	匜H
 匪.	匪H
 匸.	匸H
@@ -718,6 +720,7 @@
 枌.	枌T
 柂.	柂H
 柗.	柗T
+柩.	柩J
 柰H	柰T
 柶.	柶J
 柼.	柼T
@@ -850,6 +853,7 @@
 瀥.	瀥T
 灄H	灄J
 灜H	灜T
+灸.	灸J
 灺.	灺H
 炂.	炂T
 炃.	炃T
@@ -1030,6 +1034,7 @@
 籸.	籸K
 籾J	籾K
 粀.	粀K
+粂.	粂J
 粆.	粆H
 粉.	粉T
 粚.	粚T
@@ -1689,5 +1694,8 @@
 𡙜.	𡙜T
 𡛒.	𡛒T
 𡛬T	𡛬U
+𡝱H	𡝱U
+𡞙.	𡞙T
+𡞫H	𡞫T
 𧘇.	𧘇d
 𧰨.	𧰨d
