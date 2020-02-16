@@ -30,6 +30,7 @@
 㗣.	㗣T
 㗩.	㗩T
 㘌.	㘌T
+# 㘟 𡆪 not merged, for they're belonging to different ideographs
 㙤.	㙤T
 # 㚥 奸 not merged, for they're belonging to different ideographs
 㛃.	㛃H
@@ -1662,5 +1663,13 @@
 𡁤T	𡁤V
 𡁭.	𡁭T
 𡂧.	𡂧T
+# 𡆥 𡆦. 𡆦U not merged, for they're belonging to different ideographs
+𡆧.	𡆧T
+𡆲.	𡆲T
+𡆾.	𡆾U
+𡇷.	𡇷T
+𡇼.	𡇼T
+𡈇.	𡈇T
+𡈚.	𡈚T
 𧘇.	𧘇d
 𧰨.	𧰨d

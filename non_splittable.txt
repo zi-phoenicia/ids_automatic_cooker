@@ -53,6 +53,7 @@
 ㇃	stroke			
 ㇝	stroke			
 〇	stroke			
+α	stroke			
 ┌	non-splittable	一丨	0s1s	
 匚.	non-splittable	一𠃊	0s1s	
 匚w	non-splittable	一㇄	0s1s	
