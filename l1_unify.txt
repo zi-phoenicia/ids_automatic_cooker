@@ -1710,6 +1710,7 @@
 𡥀.	𡥀T
 𡥌U	𡥌V
 𡦽.	𡦽T
+# 𡧂 𡧊 not merged, for they're belonging to different ideographs
 𡧋.	𡧋T
 𡨬T	𡨬U
 𡨭.	𡨭T
