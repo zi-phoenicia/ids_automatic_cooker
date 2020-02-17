@@ -40,6 +40,7 @@
 㜘.	㜘T
 㜲H	㜲T
 㝐.	㝐T
+㝮.	㝮T
 㝸.	㝸J
 㞡.	㞡T
 㟽.	㟽T
@@ -93,6 +94,7 @@
 㯫.	㯫T
 㯹.	㯹T
 㯻.	㯻K
+㱁.	㱁T
 㱄.	㱄T
 㱈.	㱈T
 㱺.	㱺T
@@ -144,6 +146,7 @@
 䁿.	䁿T
 䄅.	䄅T
 䄋.	䄋T
+䄐.	䄐T
 䄟.	䄟T
 # 䄨 秆 not merged, for they're belonging to different ideographs
 䄬.	䄬T
@@ -182,6 +185,7 @@
 䖏.	䖏T
 䖐K	䖐T
 䖒.	䖒T
+䖓J	䖓T
 䖗.	䖗T
 䖚K	䖚T
 䖜K	䖜T
@@ -244,6 +248,7 @@
 䱩.	䱩T
 䱵.	䱵T
 䲐K	䲐T
+䳳.	䳳T
 䴞.	䴞T
 䵝.	䵝T
 䵞.	䵞T
@@ -972,6 +977,7 @@
 礮J	礮K
 示.	示T
 祂.	祂H
+祟.	祟T
 票.	票T
 禀.	禀T
 禁H	禁T
@@ -1029,6 +1035,7 @@
 粚.	粚T
 粽.	粽T
 糂H	糂J
+糶.	糶H
 紋J	紋K
 紗.	紗H
 紛.	紛T
@@ -1521,6 +1528,7 @@
 黗.	黗T
 默.	默H
 黚.	黚H
+黜.	黜H
 黝.	黝H
 點.	點H
 黟.	黟H
@@ -1624,6 +1632,7 @@
 𠪟.	𠪟T
 𠬬T	𠬬U
 𠬲.	𠬲U
+𠭥.	𠭥T
 𠯎.	𠯎U
 𠯦.	𠯦V
 # 𠯴 𠯿H not merged, for they're belonging to different ideographs
@@ -1713,10 +1722,13 @@
 𡭤.	𡭤U
 𡭩T	𡭩U
 𡭯.	𡭯T
+𡭱U	𡭱V
 𡭻U	𡭻V
 𡭽.	𡭽V
 𡮅U	𡮅V
 𡮐.	𡮐T
 𡮓U	𡮓V
+𡯂.	𡯂H	𡯂T
+𡯅T	𡯅U
 𧘇.	𧘇d
 𧰨.	𧰨d
