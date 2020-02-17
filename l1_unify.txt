@@ -515,6 +515,7 @@
 屛.	屛J
 屝.	屝H
 屮.	屮p
+# 屹 𡵊 not merged, for they're belonging to different ideographs
 岎.	岎T
 岔.	岔T
 岤.	岤T
@@ -726,6 +727,7 @@
 栾.	栾H
 桫.	桫H
 梗.	梗K
+梤.	梤T
 棇.	棇T
 棎H	棎K
 棐.	棐H
@@ -1746,5 +1748,11 @@
 𡴪.	𡴪U
 𡴫.	𡴫T
 𡴬T	𡴬U
+𡵀.	𡵀T
+𡵳.	𡵳T
+𡶊.	𡶊T
+𡶍.	𡶍T
+𡷆.	𡷆T
+𡷢.	𡷢T
 𧘇.	𧘇d
 𧰨.	𧰨d
