@@ -113,6 +113,7 @@
 己t	non-splittable	𠃍一𠄌	0e1e 1s2s	
 巳t	non-splittable	𠃍一𠄌	0e1e 0s2s	
 尸	non-splittable	𠃍一丿	0e1e 0s2s	
+𡰣	non-splittable	𠃍一丿	0e1e 1s2s	
 !卍	non-splittable	丨一丨	0e1e 1s2s	
 !亞0	non-splittable	丨一𠃑	0e1e 1s2s	
 !睂	non-splittable	丨一丿	0e1e 1s2s	
