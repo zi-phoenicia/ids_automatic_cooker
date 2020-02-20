@@ -54,6 +54,7 @@
 㠺.	㠺K
 㡋.	㡋T
 㡫.	㡫T
+# 㡰 𢇛 not merged, for they're belonging to different ideographs
 㢒.	㢒T
 # 㢨 弙 not merged, for they're belonging to different ideographs
 㢮.	㢮T
@@ -1781,5 +1782,13 @@
 𢅚.	𢅚T
 𢆜.	𢆜T
 𢇅.	𢇅U
+𢇚.	𢇚T
+𢇜.	𢇜T
+𢈤.	𢈤T
+𢈳.	𢈳T
+𢉥.	𢉥T
+𢊋T	𢊋U
+𢊎.	𢊎T
+𢋽.	𢋽T
 𧘇.	𧘇d
 𧰨.	𧰨d
