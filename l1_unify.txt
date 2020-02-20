@@ -1667,6 +1667,7 @@
 𡁤T	𡁤V
 𡁭.	𡁭T
 𡂧.	𡂧T
+𡅭.	𡅭U
 # 𡆥 𡆦. 𡆦U not merged, for they're belonging to different ideographs
 𡆧.	𡆧T
 𡆲.	𡆲T
@@ -1696,6 +1697,7 @@
 𡞙.	𡞙T
 𡞫H	𡞫T
 𡟸H	𡟸U
+𡠒.	𡠒U
 𡠢.	𡠢T
 𡠹.	𡠹H
 𡢙.	𡢙T
@@ -1777,5 +1779,7 @@
 𢄔.	𢄔T
 𢄪H	𢄪U
 𢅚.	𢅚T
+𢆜.	𢆜T
+𢇅.	𢇅U
 𧘇.	𧘇d
 𧰨.	𧰨d
