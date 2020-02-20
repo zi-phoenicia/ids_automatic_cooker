@@ -579,6 +579,7 @@
 徘.	徘H
 徤.	徤J
 徱.	徱T
+# 忓 𢖳 not merged, for they're belonging to different ideographs
 忘.	忘H
 忙.	忙H
 忚.	忚T
@@ -1102,6 +1103,7 @@
 聟.	聟J
 聡H	聡T
 聶H	聶J
+聽.	聽J
 聾J	聾K
 肓.	肓H
 肞H	肞J
@@ -1809,5 +1811,10 @@
 𢔂.	𢔂T
 𢔋.	𢔋T
 𢖈.	𢖈T
+𢖿.	𢖿U
+𢗠T	𢗠V
+𢗺.	𢗺T
+𢙎.	𢙎T
+𢙗T	𢙗U
 𧘇.	𧘇d
 𧰨.	𧰨d
