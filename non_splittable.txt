@@ -90,6 +90,7 @@
 !丘	non-splittable	丿丨	0e1s	
 !乐.	non-splittable	丿𠃊	0e1s	
 !乐w	non-splittable	丿㇄	0e1s	
+!𢩺	non-splittable	丿乚	0e1s	
 !𠂔.	non-splittable	丿㇉	0e1s	
 !卬	non-splittable	丿𠄌	0e1s	
 𠂆	non-splittable	丿丿	0e1s	
