@@ -1893,5 +1893,10 @@
 𣂥T	𣂥U
 𣂫.	𣂫T
 𣂺.	𣂺T
+𣃢.	𣃢T
+# 𣃴 𣃷 not merged, for they're belonging to different ideographs
+𣃾.	𣃾T
+𣄑.	𣄑T
+𣄔.	𣄔T
 𧘇.	𧘇d
 𧰨.	𧰨d
