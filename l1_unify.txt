@@ -138,6 +138,7 @@
 㿇.	㿇T
 㿑.	㿑T
 㿖.	㿖T
+# 㿝 𣌡 not merged, for they're belonging to different ideographs
 㿣.	㿣T
 # 㿻 盂 not merged, for they're belonging to different ideographs
 䀃.	䀃T
@@ -1904,5 +1905,8 @@
 𣋔T	𣋔U
 𣋤.	𣋤U
 𣋧.	𣋧U
+𣌢T	𣌢V
+𣌣.	𣌣T
+𣌲T	𣌲U
 𧘇.	𧘇d
 𧰨.	𧰨d
