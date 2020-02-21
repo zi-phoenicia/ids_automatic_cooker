@@ -103,6 +103,7 @@
 㲡.	㲡T
 㲼.	㲼J
 㳂.	㳂T
+㳈.	㳈T
 㳗K	㳗T
 㴎.	㴎T
 㴒.	㴒H
@@ -590,6 +591,7 @@
 忪.	忪T
 忿.	忿T
 怬.	怬K
+怷.	怷K
 怹.	怹H
 恋.	恋T
 恋J	恋V
@@ -710,6 +712,7 @@
 朙H	朙J
 朚.	朚T
 未.	未V
+朮.	朮J
 # 朳. 朳T 朴 not merged, for they're belonging to different ideographs
 # 杅 杆 not merged, for they're belonging to different ideographs
 杖.	杖K
@@ -801,6 +804,7 @@
 池.	池H
 汾.	汾T
 沙.	沙H
+沭J	沭T
 沲.	沲H
 沶.	沶T
 泗.	泗J
@@ -990,6 +994,7 @@
 禊H	禊T
 秎.	秎T
 秒.	秒H
+秫H	秫J
 稉.	稉J
 稑H	稑J
 稜H	稜J
@@ -1239,6 +1244,7 @@
 蠽.	蠽H
 衁.	衁H
 衈.	衈J
+術H	術K
 # 衦 衧. not merged, for they're belonging to different ideographs
 衪.	衪H
 衯.	衯T
@@ -1385,6 +1391,7 @@
 鈞H	鈞J
 鉂.	鉂J
 鉇.	鉇T
+鉥H	鉥J
 鉺.	鉺K
 銒.	銒J
 銮.	銮H	銮T
@@ -1879,6 +1886,7 @@
 𢻬.	𢻬T
 𢻲.	𢻲T
 𢻹.	𢻹U
+𢻾.	𢻾T
 𢼏.	𢼏T
 𢽕.	𢽕U
 𢾺.	𢾺T
@@ -1911,5 +1919,11 @@
 𣍢.	𣍢T
 𣍺.	𣍺U
 𣎅.	𣎅T
+𣎳.	𣎳T
+𣏕.	𣏕T
+# 𣏣 𣏥 not merged, for they're belonging to different ideographs
+𣐆U	𣐆V
+𣐧T	𣐧U
+𣐳U	𣐳V
 𧘇.	𧘇d
 𧰨.	𧰨d
