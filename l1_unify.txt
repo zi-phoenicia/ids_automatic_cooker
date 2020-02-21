@@ -277,7 +277,7 @@
 业.	业t
 並.	並t
 # 丩 𠄍 not merged, for they're belonging to different ideographs
-# 个 𠆤 not merged, for they're belonging to different ideographs
+# 个. 𠆤 not merged, for they're belonging to different ideographs
 丰.	丰.t
 久.	久d
 义.	义K
@@ -1925,5 +1925,9 @@
 𣐆U	𣐆V
 𣐧T	𣐧U
 𣐳U	𣐳V
+𣑼.	𣑼U
+𣒊.	𣒊U
+𣓰T	𣓰U
+𣓵T	𣓵U
 𧘇.	𧘇d
 𧰨.	𧰨d
