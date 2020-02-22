@@ -2008,9 +2008,14 @@
 𣸚.	𣸚T
 𣸜.	𣸜T
 𣹊.	𣹊T
+# 𣹳. 𣻤T not merged, for they're belonging to different ideographs
 𣺒T	𣺒U
 𣺚T	𣺚U
 𣻆U	𣻆V
 𣻊T	𣻊U
+𣻐.	𣻐T
+𣻤.	𣻤U
+𣼫U	𣼫V
+𣽓.	𣽓T
 𧘇.	𧘇d
 𧰨.	𧰨d
