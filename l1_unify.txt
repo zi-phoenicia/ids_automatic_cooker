@@ -798,7 +798,7 @@
 氓.	氓H
 氛.	氛J
 氺.	氺s
-汃.	汃T
+# 汃. 汃T 𣱶 not merged, for they're belonging to different ideographs
 汒.	汒H
 # 汗 汙 not merged, for they're belonging to different ideographs
 汛.	汛J
@@ -1989,5 +1989,10 @@
 𣰞.	𣰞T
 𣰪T	𣰪U
 𣱅.	𣱅T
+𣲦U	𣲦V
+𣳁.	𣳁T
+𣳪.	𣳪V
+𣴞.	𣴞T
+𣴸.	𣴸T
 𧘇.	𧘇d
 𧰨.	𧰨d
