@@ -948,8 +948,10 @@
 瘭.	瘭T
 瘳.	瘳H
 癠.	癠H
+癶.	癶d
 皂.	皂T
 皮.	皮d
+# 皯 𤿍 not merged, for they're belonging to different ideographs
 盆.	盆T
 盧.	盧H
 # 盰 盱 not merged, for they're belonging to different ideographs
@@ -2124,6 +2126,8 @@
 𤺝.	𤺝T
 𤺼.	𤺼T
 𤻱.	𤻱T
+𤼧.	𤼧T
+𤼬.	𤼬T
 𤽄.	𤽄V
 𤽉.	𤽉T
 𤽔.	𤽔T
@@ -2131,5 +2135,9 @@
 𤾕.	𤾕U
 𤾛.	𤾛T
 𤾫.	𤾫T
+𤿳.	𤿳U
+𥀘.	𥀘T
+𥀥T	𥀥U
+𥀳U	𥀳V
 𧘇.	𧘇d
 𧰨.	𧰨d
