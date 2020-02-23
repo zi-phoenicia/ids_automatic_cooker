@@ -129,6 +129,7 @@
 !黽0	non-splittable	丨𠃍一一	0s1s 0e2s 1e3e	
 !烏0	non-splittable	丨𠃍一𠃌	0s1s 1e2e 0e3s	
 !雋	non-splittable	丨㇅丨𠃌	0s1s 1e2e 2s3s	
+𤕪	non-splittable	𠃊𠃍一𠃊	0s1s 1e3e 2s3s	
 !𠁁0	non-splittable	𠃊𠃍一𠃑	0s1s 1e2e 2s3s	
 !𠂂	non-splittable	〇𠃍一丨	0s1s 1e2e 2s3s	
 㠯.	non-splittable	𠃍一丨𠃍一	0s2s 0e1e 2e4s 3e4e	
