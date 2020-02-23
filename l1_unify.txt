@@ -134,6 +134,7 @@
 㼼.	㼼T
 㽎K	㽎T
 㽢.	㽢T
+# 㽳. 𤴲 not merged, for they're belonging to different ideographs
 㿂.	㿂T
 㿃.	㿃T
 㿇.	㿇T
@@ -938,6 +939,7 @@
 甿.	甿H
 畇H	畇K
 疁.	疁T
+# 疔. 𤴫 not merged, for they're belonging to different ideographs
 痧.	痧H
 痱.	痱H
 痷.	痷T
@@ -2108,5 +2110,8 @@
 𤴅.	𤴅T
 𤴌.	𤴌T
 𤴔.	𤴔h
+# 𤴩 𤴭U not merged, for they're belonging to different ideographs
+𤵚.	𤵚T
+𤵫.	𤵫T
 𧘇.	𧘇d
 𧰨.	𧰨d
