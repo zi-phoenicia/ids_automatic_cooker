@@ -1706,6 +1706,7 @@
 𡊷.	𡊷T
 𡌂H	𡌂U
 𡌦.	𡌦T
+𡌨.	𡌨U
 𡍊.	𡍊U
 𡍻.	𡍻T
 𡏔T	𡏔U
@@ -1938,6 +1939,7 @@
 𣐳U	𣐳V
 𣑼.	𣑼U
 𣒊.	𣒊U
+𣓜.	𣓜U
 𣓰T	𣓰U
 𣓵T	𣓵U
 𣕑.	𣕑T
@@ -2094,5 +2096,17 @@
 𤭽.	𤭽T
 𤮔.	𤮔T
 𤮧.	𤮧T
+𤰆.	𤰆T
+𤰞.	𤰞T
+# 𤰠 𤰤 not merged, for they're belonging to different ideographs
+𤰡.	𤰡T
+𤰪.	𤰪T
+𤰵.	𤰵T
+𤱭.	𤱭U
+𤲞H	𤲞U
+𤳍T	𤳍U
+𤴅.	𤴅T
+𤴌.	𤴌T
+𤴔.	𤴔h
 𧘇.	𧘇d
 𧰨.	𧰨d

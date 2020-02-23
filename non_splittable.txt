@@ -56,6 +56,7 @@
 α	stroke			
 ┌	non-splittable	一丨	0s1s	
 匚.	non-splittable	一𠃊	0s1s	
+匚g	non-splittable	一乚	0s1s	
 匚w	non-splittable	一㇄	0s1s	
 !𠂔h	non-splittable	一㇉	0s1s	
 !戉	non-splittable	一𠄌	0s1s	
@@ -86,6 +87,7 @@
 几.	non-splittable	丿㇈	0s1s	
 几t	non-splittable	丿㇊	0s1s	
 𠘧	non-splittable	丿㇍	0s1s	
+!𤙍	non-splittable	丿乁	0s1s	
 𠘨	non-splittable	丿⺄	0s1s	
 !丘	non-splittable	丿丨	0e1s	
 !乐.	non-splittable	丿𠃊	0e1s	
