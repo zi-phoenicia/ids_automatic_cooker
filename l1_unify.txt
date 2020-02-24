@@ -2149,5 +2149,20 @@
 𥃊T	𥃊U
 𥃎.	𥃎T
 𥃓.	𥃓T
+𥃸.	𥃸T
+𥄖.	𥄖T
+𥄴.	𥄴T
+𥄵T	𥄵V
+𥄾.	𥄾U
+𥅀.	𥅀U
+𥅎T	𥅎U
+𥅓.	𥅓T
+𥅝T	𥅝U
+𥇋.	𥇋T
+𥇖.	𥇖T
+𥈎.	𥈎T
+𥈷.	𥈷T
+𥉆.	𥉆T
+# 𥉎 𥉨 not merged, for they're belonging to different ideographs
 𧘇.	𧘇d
 𧰨.	𧰨d
