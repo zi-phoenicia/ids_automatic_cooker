@@ -1015,6 +1015,7 @@
 穫J	穫V
 穴.	穴T
 穴J	穴K
+# 穻H 𥤱T not merged, for they're belonging to different ideographs
 窫H	窫T
 立.	立.t
 立J	立st
@@ -2203,5 +2204,7 @@
 𥡧.	𥡧T
 𥡪.	𥡪T
 𥣞.	𥣞H
+𥤾.	𥤾T
+𥦶.	𥦶T
 𧘇.	𧘇d
 𧰨.	𧰨d
