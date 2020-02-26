@@ -1032,7 +1032,9 @@
 笀.	笀H
 笀K	笀V
 笅.	笅K
+# 笇. 𥫰 not merged, for they're belonging to different ideographs
 笉H	笉K
+# 笋 𥬁 not merged, for they're belonging to different ideographs
 筂.	筂H
 筓.	筓K
 筠H	筠J
@@ -2213,5 +2215,7 @@
 𥦶.	𥦶T
 𥫏.	𥫏U
 𥫖.	𥫖T
+𥭚.	𥭚T
+𥭣.	𥭣T
 𧘇.	𧘇d
 𧰨.	𧰨d
