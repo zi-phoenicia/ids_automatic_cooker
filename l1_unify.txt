@@ -170,6 +170,7 @@
 䌌.	䌌T
 䌦.	䌦T
 䍿.	䍿T
+# 䎢. 𦓪. not merged, for they're belonging to different ideographs
 䏇K	䏇T
 䏌.	䏌K
 # 䏏. 肝. not merged, for they're belonging to different ideographs
