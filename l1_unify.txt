@@ -1061,6 +1061,7 @@
 粽.	粽T
 糂H	糂J
 糶.	糶H
+# 紆. 𥾍 not merged, for they're belonging to different ideographs
 紋J	紋K
 紗.	紗H
 紛.	紛T
@@ -2240,5 +2241,10 @@
 𥻠U	𥻠V
 𥼞.	𥼞T
 𥼠.	𥼠T
+𥾛.	𥾛V
+𥾻.	𥾻T
+𥿺.	𥿺T
+𦀇.	𦀇U
+𦁃.	𦁃T
 𧘇.	𧘇d
 𧰨.	𧰨d
