@@ -1817,6 +1817,7 @@
 𢄔.	𢄔T
 𢄪H	𢄪U
 𢅚.	𢅚T
+# 𢆉 𦍍 not merged, for they're belonging to different ideographs
 𢆜.	𢆜T
 𢇅.	𢇅U
 𢇚.	𢇚T
@@ -2272,5 +2273,11 @@
 𦋾.	𦋾T
 𦌨T	𦌨U
 𦍇T	𦍇U
+𦍔.	𦍔T
+𦍥.	𦍥T
+𦍨.	𦍨T
+𦍩.	𦍩K
+𦎯.	𦎯T
+𦎾H	𦎾U
 𧘇.	𧘇d
 𧰨.	𧰨d
