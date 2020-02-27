@@ -1128,6 +1128,8 @@
 聶H	聶J
 聽.	聽J
 聾J	聾K
+# 肐. 𦘸. not merged, for they're belonging to different ideographs
+# 肐H 𦘸T not merged, for they're belonging to different ideographs
 肓.	肓H
 肞H	肞J
 肦.	肦T
@@ -2297,5 +2299,7 @@
 𦕈T	𦕈V
 𦕋T	𦕋U
 𦕥T	𦕥U
+# 𦘩. 𦘱 not merged, for they're belonging to different ideographs
+𦙥U	𦙥V
 𧘇.	𧘇d
 𧰨.	𧰨d
