@@ -1156,12 +1156,15 @@
 航H	航V
 艩H	艩T
 艮.	艮d
+# 艼. 𦫺. not merged, for they're belonging to different ideographs
+# 艼H 𦫺T not merged, for they're belonging to different ideographs
 艾.	艾J
 艾H	艾K
 # 芉. 芋. not merged, for they're belonging to different ideographs
 # 芉T 芋H not merged, for they're belonging to different ideographs
 芬.	芬J
 芬H	芬T
+# 苄H 𦬩T not merged, for they're belonging to different ideographs
 苆.	苆J
 # 茖. 茗V not merged, for they're belonging to different ideographs
 茨K	茨T
@@ -1623,6 +1626,7 @@
 𠒦U	𠒦V
 𠒬U	𠒬V
 𠓑U	𠓑V
+𠓔U	𠓔V
 𠔀.	𠔀T
 𠔁.	𠔁T
 𠔂.	𠔂T
