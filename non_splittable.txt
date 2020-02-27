@@ -83,6 +83,7 @@
 !母	non-splittable	𠃊𠃌	0s1s	
 !𠌆	non-splittable	𠃊㇇	0s1s	
 凵	non-splittable	𠃊丨	0e1e	
+!𦪺	non-splittable	丿𠃍	0s1s	
 ⺆	non-splittable	丿𠃌	0s1s	
 几.	non-splittable	丿㇈	0s1s	
 几t	non-splittable	丿㇊	0s1s	
