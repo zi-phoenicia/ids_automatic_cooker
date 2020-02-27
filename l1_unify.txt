@@ -2301,5 +2301,7 @@
 𦕥T	𦕥U
 # 𦘩. 𦘱 not merged, for they're belonging to different ideographs
 𦙥U	𦙥V
+𦜱.	𦜱U
+𦝲.	𦝲T
 𧘇.	𧘇d
 𧰨.	𧰨d
