@@ -1268,6 +1268,7 @@
 衁.	衁H
 衈.	衈J
 術H	術K
+# 补 𧘋. 𧘋T not merged, for they're belonging to different ideographs
 # 衦 衧. not merged, for they're belonging to different ideographs
 衪.	衪H
 衯.	衯T
@@ -2391,4 +2392,6 @@
 𧗪.	𧗪T
 𧗲.	𧗲T
 𧘇.	𧘇.d
+𧘒.	𧘒T
+𧘙.	𧘙T
 𧰨.	𧰨d
