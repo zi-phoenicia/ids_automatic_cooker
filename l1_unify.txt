@@ -1234,6 +1234,7 @@
 虧.	虧H
 虨.	虨H
 虩H	虩J	虩T
+# 虲 𧈢 not merged, for they're belonging to different ideographs
 虵.	虵T
 # 虶 虷 not merged, for they're belonging to different ideographs
 虻.	虻H
@@ -2361,5 +2362,9 @@
 𧈒.	𧈒T
 𧈕.	𧈕T
 𧈘.	𧈘T
+𧉢.	𧉢T
+𧉮.	𧉮T
+𧉴.	𧉴U
+𧊷T	𧊷U
 𧘇.	𧘇d
 𧰨.	𧰨d
