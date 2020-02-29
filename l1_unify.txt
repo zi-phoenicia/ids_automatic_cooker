@@ -1509,6 +1509,7 @@
 躺H	躺V
 躽.	躽K
 軀J	軀V
+# 軒 𨊱 not merged, for they're belonging to different ideographs
 較J	較K
 輘H	輘J
 輞.	輞H
@@ -2838,3 +2839,14 @@
 𨅥.	𨅥T
 𨆊.	𨆊T
 𨇖.	𨇖T
+𨈐.	𨈐T
+𨈑.	𨈑T
+𨈘H	𨈘T
+𨈲T	𨈲U
+𨉑.	𨉑V
+𨉖.	𨉖H
+𨌀U	𨌀V
+𨌈.	𨌈T
+𨌧.	𨌧T
+𨌪.	𨌪T
+𨌶.	𨌶T
