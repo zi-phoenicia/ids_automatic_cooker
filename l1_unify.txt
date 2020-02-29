@@ -1549,6 +1549,7 @@
 野.	野V
 # 釙 釟. 釟T not merged, for they're belonging to different ideographs
 釜.	釜K
+# 釥 𨧛 not merged, for they're belonging to different ideographs
 # 釪 釬 not merged, for they're belonging to different ideographs
 釯.	釯T
 釯K	釯V
@@ -2912,3 +2913,26 @@
 𨤮U	𨤮V
 𨤯U	𨤯V
 𨤵U	𨤵V
+𨥔.	𨥔V
+𨥖H	𨥖T
+𨦏T	𨦏U
+𨦣.	𨦣T
+𨧋T	𨧋U
+𨧦.	𨧦U
+𨧯.	𨧯T
+𨧼H	𨧼U
+𨨉T	𨨉U
+𨨖.	𨨖H
+𨨞.	𨨞J
+𨨸.	𨨸T
+𨨿.	𨨿U
+𨩌T	𨩌U
+𨩕T	𨩕U
+𨪣T	𨪣U
+𨫁.	𨫁U
+𨫕.	𨫕U
+𨬝T	𨬝U
+𨭚.	𨭚T
+𨮔.	𨮔T
+𨯚.	𨯚U
+𨯼.	𨯼T
