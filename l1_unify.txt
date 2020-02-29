@@ -2868,3 +2868,10 @@
 # 𨔺 𨕓. not merged, for they're belonging to different ideographs
 𨕚.	𨕚U
 𨕟T	𨕟U
+𨗹T	𨗹U
+𨘍T	𨘍U
+𨘏T	𨘏U
+𨘹T	𨘹U
+𨙆T	𨙆U
+𨙉T	𨙉U
+𨙤.	𨙤U
