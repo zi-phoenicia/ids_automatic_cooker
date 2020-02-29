@@ -1382,6 +1382,7 @@
 赭.	赭H
 赮.	赮H
 赯.	赯H
+# 赴 𧺍T 𧺍U not merged, for they're belonging to different ideographs
 赹H	赹K
 赻.	赻H
 趯.	趯H
@@ -1959,6 +1960,7 @@
 𢟺.	𢟺T
 𢟻.	𢟻T
 𢠞T	𢠞U
+𢠱.	𢠱T
 𢡆.	𢡆T
 𢡈.	𢡈T
 𢡐.	𢡐U
@@ -2613,3 +2615,10 @@
 𧸆.	𧸆T
 𧹅U	𧹅V
 𧹆.	𧹆T
+𧺉T	𧺉U
+𧺏.	𧺏T
+𧺫T	𧺫U
+𧻘.	𧻘T
+𧻝.	𧻝U
+𧻠T	𧻠U
+𧻴.	𧻴U
