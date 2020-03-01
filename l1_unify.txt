@@ -1696,6 +1696,7 @@
 鯮.	鯮T
 鯱H	鯱J
 鰎.	鰎K
+# 鰥H 𩹌 not merged, for they're belonging to different ideographs
 鰬.	鰬H
 鰼.	鰼H
 鰾.	鰾T
@@ -3051,3 +3052,10 @@
 𩰏.	𩰏U
 𩰕.	𩰕T
 𩰛.	𩰛U
+𩱓.	𩱓T
+𩱜.	𩱜U
+𩱲.	𩱲T
+𩱳.	𩱳H	𩱳T
+𩲡T	𩲡V
+𩲢.	𩲢U
+𩴍T	𩴍U
