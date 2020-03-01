@@ -275,6 +275,8 @@
 䫍.	䫍T
 䫘.	䫘T
 䫴.	䫴T
+# 䬣. 𩚋. not merged, for they're belonging to different ideographs
+# 䬣T 𩚋T not merged, for they're belonging to different ideographs
 䭸.	䭸K
 䭻.	䭻T
 䯯.	䯯K
@@ -3020,3 +3022,5 @@
 𩓸.	𩓸T
 𩔺.	𩔺T
 𩖇.	𩖇T
+𩚦U	𩚦V
+𩛬.	𩛬T
