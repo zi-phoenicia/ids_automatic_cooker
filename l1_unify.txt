@@ -244,6 +244,7 @@
 䡈.	䡈K
 䡾.	䡾T
 䣟.	䣟T
+䤏.	䤏T
 䤬.	䤬K
 䤵.	䤵H
 䤶.	䤶T
@@ -264,6 +265,7 @@
 䨿.	䨿T
 䩀.	䩀T
 䩁.	䩁T
+# 䩐 𩉟 not merged, for they're belonging to different ideographs
 # 䩒 靬 not merged, for they're belonging to different ideographs
 䩶.	䩶T
 䩺.	䩺T
@@ -2143,6 +2145,7 @@
 𢰿.	𢰿U
 𢱟.	𢱟T
 𢲽.	𢲽T
+𢳁.	𢳁T
 𢴪.	𢴪T
 𢴲.	𢴲T
 𢴾.	𢴾T
@@ -2689,6 +2692,7 @@
 𧈉.	𧈉T
 𧈎.	𧈎T
 𧈒.	𧈒T
+𧈓.	𧈓T
 𧈕.	𧈕T
 𧈘.	𧈘T
 𧉢.	𧉢T
@@ -2979,3 +2983,29 @@
 𩁨.	𩁨T
 # 𩁹. 𩂀 not merged, for they're belonging to different ideographs
 𩃭H	𩃭T
+𩇩.	𩇩T
+𩇪.	𩇪T
+𩇫.	𩇫H
+𩇭.	𩇭T
+𩇮.	𩇮T
+𩇯.	𩇯T
+𩇱.	𩇱T
+𩇵.	𩇵T
+𩇶.	𩇶T
+𩇷T	𩇷U
+𩇸.	𩇸T
+𩇹.	𩇹T
+𩇼.	𩇼T
+𩇾.	𩇾T
+𩇿.	𩇿T
+𩈁.	𩈁U
+𩈫.	𩈫T
+𩈯.	𩈯T
+𩉻.	𩉻T
+𩋂.	𩋂T
+𩋊.	𩋊T
+𩌐.	𩌐T
+𩌭.	𩌭T
+𩌲.	𩌲T
+𩍛T	𩍛U
+𩍪.	𩍪T
