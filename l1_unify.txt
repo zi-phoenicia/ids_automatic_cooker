@@ -2977,3 +2977,5 @@
 𩁋.	𩁋T
 𩁧T	𩁧U
 𩁨.	𩁨T
+# 𩁹. 𩂀 not merged, for they're belonging to different ideographs
+𩃭H	𩃭T
