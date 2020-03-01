@@ -3025,3 +3025,17 @@
 𩚦U	𩚦V
 𩛬.	𩛬T
 𩠗.	𩠗U
+𩡉T	𩡉U
+𩡍.	𩡍T
+𩡓.	𩡓T
+# 𩡩. 𩡩T 𩡭 not merged, for they're belonging to different ideographs
+𩢛.	𩢛T
+𩣇T	𩣇U
+𩣭.	𩣭T
+𩣾.	𩣾T
+𩤾.	𩤾T
+𩦎.	𩦎T
+𩦏.	𩦏T
+𩦠.	𩦠T
+𩦾.	𩦾T
+𩧥.	𩧥T
