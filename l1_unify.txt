@@ -1770,6 +1770,7 @@
 齍H	齍T
 齎.	齎H
 齏.	齏H
+# 齕 𪗚 not merged, for they're belonging to different ideographs
 齧.	齧T
 龟.	龟H
 龶.	龶t
@@ -3220,3 +3221,15 @@
 𪔲.	𪔲U
 𪔶.	𪔶U
 𪖷.	𪖷T
+𪗅.	𪗅U
+𪗆.	𪗆H
+𪗓.	𪗓U
+𪗔.	𪗔T
+𪘌U	𪘌V
+𪘦.	𪘦T
+𪘹.	𪘹T
+𪘽.	𪘽T
+𪙈.	𪙈T
+𪙲.	𪙲T
+𪙿.	𪙿T
+𪚋.	𪚋T
