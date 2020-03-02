@@ -2020,6 +2020,7 @@
 𡴫.	𡴫T
 𡴬T	𡴬U
 𡵀.	𡵀T
+# 𡵋 𪨣 not merged, for they're belonging to different ideographs
 𡵳.	𡵳T
 𡶊.	𡶊T
 𡶍.	𡶍T
