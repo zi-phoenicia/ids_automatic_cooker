@@ -124,6 +124,7 @@
 !黽1	non-splittable	丨𠃍一	0e2s 1e2e	
 口	non-splittable	丨𠃍一	0s1s 0e2s 1e2e	
 囗	non-splittable	丨𠃍一	0s1s 0e2s 1e2e	囗
+!𪛗	non-splittable	丨𠃍乛	0s1s 0e2s	
 !𠃛	non-splittable	丨𠃌一	0s1s 0e2s	
 !亞1	non-splittable	𠃑一丨	0e1e 1s2s	
 !龍	non-splittable	𠃑一乚	0e1e 1s2s	
