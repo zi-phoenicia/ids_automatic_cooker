@@ -722,6 +722,7 @@
 扡.	扡H
 扨J	扨T
 扮.	扮T
+# 抃J 𫼚 not merged, for they're belonging to different ideographs
 抄.	抄H
 拖.	拖H
 挕.	挕V
