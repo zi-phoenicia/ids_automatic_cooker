@@ -1609,6 +1609,8 @@
 鑪.	鑪H
 鑷H	鑷J
 钀.	钀H
+# 钋 𫓥 not merged, for they're belonging to different ideographs
+# 閁 𫔘 not merged, for they're belonging to different ideographs
 閣.	閣H
 閱.	閱H	閱K
 阠.	阠K
