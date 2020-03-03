@@ -245,6 +245,7 @@
 䡈.	䡈K
 䡾.	䡾T
 䣟.	䣟T
+䣣.	䣣T
 䤏.	䤏T
 䤬.	䤬K
 䤵.	䤵H
@@ -1750,6 +1751,7 @@
 黤.	黤H	黤T
 黥.	黥H
 黦.	黦H
+黨.	黨t
 黬.	黬T
 黭.	黭H
 黮H	黮J	黮K
@@ -1766,6 +1768,7 @@
 鼙.	鼙T
 鼚.	鼚J
 鼜H	鼜K
+鼞.	鼞H
 鼟.	鼟J
 鼢.	鼢J
 鼢H	鼢T
@@ -2675,6 +2678,7 @@
 𦩼T	𦩼V
 𦪂U	𦪂V
 𦪃U	𦪃V
+𦪦U	𦪦V
 𦪨.	𦪨T
 𦫋.	𦫋T
 𦫌T	𦫌U
@@ -3263,3 +3267,4 @@
 𫘤.	𫘤U
 𫘨.	𫘨U
 𫛛.	𫛛U
+# 𫝀 𫦤 not merged, for they're belonging to different ideographs
