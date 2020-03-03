@@ -329,6 +329,7 @@
 也.	也H
 习.	习z
 乸.	乸H
+# 亇T 𫡏 not merged, for they're belonging to different ideographs
 # 于 干 not merged, for they're belonging to different ideographs
 亘.	亘t
 亚.	亚t
@@ -343,6 +344,7 @@
 # 仆 仈. not merged, for they're belonging to different ideographs
 他.	他H
 仗.	仗J
+# 伶J 𫢕 not merged, for they're belonging to different ideographs
 佾.	佾K
 侫.	侫H
 倧.	倧T
@@ -3138,6 +3140,7 @@
 𪈴.	𪈴U
 𪈷.	𪈷T
 𪉉.	𪉉U
+𪉑.	𪉑U
 𪉓.	𪉓U
 𪉕.	𪉕U
 𪉻.	𪉻T
