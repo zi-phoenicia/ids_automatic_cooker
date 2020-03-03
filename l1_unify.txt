@@ -497,6 +497,7 @@
 囶.	囶J
 圂.	圂J
 土.	土t
+# 圤 𫭗 not merged, for they're belonging to different ideographs
 圥.	圥w
 圭.	圭t
 地.	地H
