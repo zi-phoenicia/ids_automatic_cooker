@@ -1668,6 +1668,7 @@
 韇H	韇J
 韭.	韭t
 韲.	韲H
+# 頇 𬱀 not merged, for they're belonging to different ideographs
 頌J	頌K
 頑.	頑K
 頒J	頒K
@@ -3303,6 +3304,7 @@
 𪻎K	𪻎T
 𪽘J	𪽘T
 𫇻J	𫇻T
+# 𫗞 𬲨 not merged, for they're belonging to different ideographs
 𫘝.	𫘝U
 𫘣.	𫘣U
 𫘤.	𫘤U
