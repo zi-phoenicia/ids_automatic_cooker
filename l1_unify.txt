@@ -443,6 +443,7 @@
 叚.	叚d
 叞.	叞T
 史.	史K
+# 吁 𭆺 not merged, for they're belonging to different ideographs
 吂.	吂T
 各.	各d
 吏.	吏K
@@ -3322,3 +3323,5 @@
 𫵖.	𫵖s
 𫶧.	𫶧w
 𭁈h.	𭁈hn
+# 𭅕 𭅖 not merged, for they're belonging to different ideographs
+𭅶.	𭅶K
