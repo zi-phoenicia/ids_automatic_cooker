@@ -3134,6 +3134,7 @@
 𩲢.	𩲢U
 𩴍T	𩴍U
 𩵐.	𩵐T
+# 𩵒 𬵂 not merged, for they're belonging to different ideographs
 𩵔.	𩵔T
 𩵜U	𩵜V
 𩵯.	𩵯T
