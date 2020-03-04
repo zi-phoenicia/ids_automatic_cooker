@@ -45,6 +45,7 @@
 𠃋	stroke			
 𠃉	stroke			
 𡿨	stroke			
+𬼂	stroke			
 ㇓	stroke			
 乀	stroke			
 ㇂	stroke			
@@ -105,6 +106,7 @@
 △	non-splittable	𠃋丶	0s1s 0e1e	
 ◇	non-splittable	𡿨〇	0s1s	
 冖	non-splittable	丶乛	0s1s	
+𬼁	non-splittable	丶𠄎	0s1s	
 !卐	non-splittable	一丨一	0s1s 1e2e	
 !馬	non-splittable	一丨𠃌	0s1s 1e2s	
 !叚	non-splittable	𠃍一丨	0e1e 0s2s	
@@ -129,6 +131,7 @@
 !亞1	non-splittable	𠃑一丨	0e1e 1s2s	
 !龍	non-splittable	𠃑一乚	0e1e 1s2s	
 !𢏽1	non-splittable	𠃑一𠄌	0e1e 1s2s	
+𬼄	non-splittable	丶乛𠄎	0s1s 1e2s	
 !𢏽0	non-splittable	一𠃑一𠄌	0s1s 1e2e 2s3s	
 !黽0	non-splittable	丨𠃍一一	0s1s 0e2s 1e3e	
 !烏0	non-splittable	丨𠃍一𠃌	0s1s 1e2e 0e3s	

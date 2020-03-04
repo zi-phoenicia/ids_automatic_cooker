@@ -1,5 +1,6 @@
 # following ideographs were merged, because they share an identical L1 IDS
 # ╪ 扌 not merged, for they're belonging to different ideographs
+# ⺀ 𬻿 not merged, for they're belonging to different ideographs
 # ⺊ 𠂉 not merged, for they're belonging to different ideographs
 # 〢 刂 not merged, for they're belonging to different ideographs
 # 〣 川 not merged, for they're belonging to different ideographs
@@ -327,6 +328,7 @@
 並.	並t
 # 丩 𠄍 not merged, for they're belonging to different ideographs
 # 个. 𠆤 not merged, for they're belonging to different ideographs
+# 丫 𬼸 not merged, for they're belonging to different ideographs
 丰.	丰.t
 久.	久d
 义.	义K
@@ -337,6 +339,7 @@
 习.	习z
 乸.	乸H
 # 亇T 𫡏 not merged, for they're belonging to different ideographs
+# 亍 𬼽 not merged, for they're belonging to different ideographs
 # 于 干 not merged, for they're belonging to different ideographs
 亘.	亘t
 亚.	亚t
@@ -3292,6 +3295,7 @@
 𪗓.	𪗓U
 𪗔.	𪗔T
 𪘌U	𪘌V
+𪘗.	𪘗T
 𪘦.	𪘦T
 𪘹.	𪘹T
 𪘽.	𪘽T
@@ -3317,3 +3321,4 @@
 # 𫝁 𬻇 not merged, for they're belonging to different ideographs
 𫵖.	𫵖s
 𫶧.	𫶧w
+𭁈h.	𭁈hn
