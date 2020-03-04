@@ -1486,6 +1486,7 @@
 謼.	謼H
 譖J	譖K
 讞.	讞H
+# 讦 𬣙 not merged, for they're belonging to different ideographs
 谻.	谻H	谻K
 豂.	豂H
 豕.	豕d
