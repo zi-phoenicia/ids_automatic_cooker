@@ -719,6 +719,7 @@
 戳.	戳H
 扉.	扉H
 # 手 龵 not merged, for they're belonging to different ideographs
+# 才. 𬺱 not merged, for they're belonging to different ideographs
 # 扑 扒. 扒T not merged, for they're belonging to different ideographs
 扙.	扙K
 # 扜 扞 not merged, for they're belonging to different ideographs
@@ -1948,7 +1949,7 @@
 𡇼.	𡇼T
 𡈇.	𡈇T
 𡈚.	𡈚T
-𡉊.	𡉊T
+# 𡉊. 𡉊T 𬻁 not merged, for they're belonging to different ideographs
 𡊆.	𡊆T
 𡊇.	𡊇T
 𡊷.	𡊷T
@@ -3274,6 +3275,7 @@
 𪓃.	𪓃T
 𪓊.	𪓊T
 𪓐K	𪓐T
+# 𪔆 𬹥 not merged, for they're belonging to different ideographs
 𪔐.	𪔐T
 𪔔.	𪔔U
 𪔢.	𪔢U
@@ -3312,5 +3314,6 @@
 𫘨.	𫘨U
 𫛛.	𫛛U
 # 𫝀 𫦤 not merged, for they're belonging to different ideographs
+# 𫝁 𬻇 not merged, for they're belonging to different ideographs
 𫵖.	𫵖s
 𫶧.	𫶧w
