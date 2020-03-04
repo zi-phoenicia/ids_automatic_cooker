@@ -197,6 +197,7 @@
 䋵.	䋵T
 䌌.	䌌T
 䌦.	䌦T
+# 䍐 𬙘 not merged, for they're belonging to different ideographs
 䍿.	䍿T
 # 䎢. 𦓪. not merged, for they're belonging to different ideographs
 䏇K	䏇T
@@ -1219,7 +1220,7 @@
 罏.	罏H
 罔.	罔H
 罔K	罔V
-罕H	罕J
+# 罕H 罕J 𬙗 not merged, for they're belonging to different ideographs
 罨.	罨T
 罪.	罪H
 罻.	罻T
