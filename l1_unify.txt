@@ -315,12 +315,14 @@
 䵯.	䵯T
 䵰.	䵰T
 䵱.	䵱T
+䵳.	䵳T
 䵽.	䵽T
 䵿.	䵿T
 䶔.	䶔T
 䶥.	䶥T
 # 丁 丅 丆 not merged, for they're belonging to different ideographs
 七.	七T	七t
+丄.	丄t
 丈.	丈K
 且.	且t
 丘.	丘t
@@ -540,6 +542,8 @@
 夋K	夋T
 夌H	夌J
 夌K	夌T
+# 复. 𠧫. not merged, for they're belonging to different ideographs
+# 复T 𠧫T not merged, for they're belonging to different ideographs
 夎K	夎T
 奄.	奄T
 奈.	奈T
@@ -2456,6 +2460,7 @@
 𤥘.	𤥘T
 𤥼.	𤥼T
 𤦈H	𤦈U
+𤨣H	𤨣U
 𤩁.	𤩁T
 𤩦.	𤩦T
 𤩩.	𤩩T
@@ -3267,6 +3272,7 @@
 𪒘.	𪒘T
 𪒛.	𪒛T
 𪒜.	𪒜T
+𪒟.	𪒟T
 𪒩.	𪒩T
 𪒬.	𪒬T
 𪒭.	𪒭T
