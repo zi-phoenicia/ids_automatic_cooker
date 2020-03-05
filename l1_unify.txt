@@ -1971,6 +1971,7 @@
 𡘤T	𡘤V
 𡙐.	𡙐T
 𡙜.	𡙜T
+# 𡚭 𭑧 not merged, for they're belonging to different ideographs
 𡛒.	𡛒T
 𡛬T	𡛬U
 𡜎.	𡜎U
