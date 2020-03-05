@@ -604,6 +604,7 @@
 屝.	屝H
 屮.	屮p
 # 屹 𡵊 not merged, for they're belonging to different ideographs
+# 屽 𭖂 not merged, for they're belonging to different ideographs
 岎.	岎T
 岔.	岔T
 岤.	岤T
