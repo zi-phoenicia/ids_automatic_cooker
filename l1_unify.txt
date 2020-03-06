@@ -579,6 +579,7 @@
 嬥.	嬥H
 嬩.	嬩T
 嬴H	嬴T
+孂.	孂T
 子.	子t
 孔.	孔V
 孖.	孖t
@@ -1191,6 +1192,7 @@
 篪H	篪J
 篲H	篲J
 篻.	篻T
+簋.	簋H
 籅.	籅H	籅T
 籊.	籊H
 籚.	籚H
@@ -2399,6 +2401,7 @@
 𤃙.	𤃙T
 𤃬.	𤃬H
 𤃯.	𤃯U
+𤃾.	𤃾T
 𤄕.	𤄕T
 𤄦.	𤄦T
 𤅊.	𤅊T
@@ -2539,6 +2542,7 @@
 𥃍.	𥃍T
 𥃎.	𥃎T
 𥃓.	𥃓T
+# 𥃨 𭾘 not merged, for they're belonging to different ideographs
 𥃸.	𥃸T
 𥄖.	𥄖T
 𥄴.	𥄴T
