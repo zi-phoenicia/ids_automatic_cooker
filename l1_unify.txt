@@ -3333,3 +3333,4 @@
 𭁈h.	𭁈hn
 # 𭅕 𭅖 not merged, for they're belonging to different ideographs
 𭅶.	𭅶K
+𭭞K	𭭞U
