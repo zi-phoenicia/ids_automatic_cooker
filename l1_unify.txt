@@ -127,6 +127,7 @@
 㳂.	㳂T
 㳈.	㳈T
 㳗K	㳗T
+# 㳬 𣵕 not merged, for they're belonging to different ideographs
 㴎.	㴎T
 㴒.	㴒H
 㴲H	㴲J
@@ -1050,6 +1051,7 @@
 玜.	玜T
 玢.	玢T
 珥.	珥J
+# 琁 𤥩 not merged, for they're belonging to different ideographs
 琛H	琛J
 琥H	琥J
 琮.	琮T
@@ -1688,6 +1690,7 @@
 顠.	顠T
 顤.	顤K
 顪.	顪J
+# 颴H 𩗟 not merged, for they're belonging to different ideographs
 飃H	飃T
 飄H	飄T
 馚.	馚T
