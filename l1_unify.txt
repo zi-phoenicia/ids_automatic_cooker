@@ -357,7 +357,6 @@
 # 仆 仈. not merged, for they're belonging to different ideographs
 他.	他H
 仗.	仗J
-# 伶J 𫢕 not merged, for they're belonging to different ideographs
 佾.	佾K
 侫.	侫H
 倧.	倧T
@@ -1021,7 +1020,6 @@
 爈.	爈T
 爐.	爐H
 父.	父K
-# 爷 𠛈 not merged, for they're belonging to different ideographs
 爸.	爸J
 爹.	爹J
 爺H	爺K
