@@ -433,6 +433,7 @@
 卂.	卂T
 # 千. 千p 𠂌 not merged, for they're belonging to different ideographs
 # 卄 廾 not merged, for they're belonging to different ideographs
+# 午 𮥶 not merged, for they're belonging to different ideographs
 # 卉 𠦄V not merged, for they're belonging to different ideographs
 卌.	卌T
 南.	南V
@@ -690,6 +691,7 @@
 忙.	忙H
 忚.	忚T
 忞.	忞T
+# 忤 𭞞 not merged, for they're belonging to different ideographs
 忩.	忩T
 忪.	忪T
 忿.	忿T
@@ -3031,6 +3033,7 @@
 𨪣T	𨪣U
 𨫁.	𨫁U
 𨫕.	𨫕U
+# 𨫝 𫒍 not merged, for they're belonging to different ideographs
 𨬝T	𨬝U
 𨭚.	𨭚T
 𨮔.	𨮔T
