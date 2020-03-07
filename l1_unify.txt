@@ -3350,3 +3350,4 @@
 𭭞K	𭭞U
 # 𰀠 𰛅 not merged, for they're belonging to different ideographs
 𰚑.	𰚑K
+𰥼.	𰥼T
