@@ -1510,6 +1510,7 @@
 豣.	豣J
 豦.	豦H
 貁.	貁T
+# 貞 𮙭 not merged, for they're belonging to different ideographs
 貤.	貤H
 貧.	貧T
 資K	資T
