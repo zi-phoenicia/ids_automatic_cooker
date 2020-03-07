@@ -1029,6 +1029,7 @@
 犍.	犍J
 犚.	犚T
 犢H	犢J
+# 犿. 𰡁 not merged, for they're belonging to different ideographs
 狋.	狋T
 狏.	狏T
 狖.	狖T
