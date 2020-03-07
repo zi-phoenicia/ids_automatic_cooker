@@ -1578,6 +1578,7 @@
 # 迀. 迂. not merged, for they're belonging to different ideographs
 # 迀J 迂J not merged, for they're belonging to different ideographs
 # 迀T 迂H not merged, for they're belonging to different ideographs
+# 迄. 𮞂 not merged, for they're belonging to different ideographs
 迹H	迹T
 逐J	逐V
 逤H	逤T
