@@ -2106,6 +2106,7 @@
 𢅚.	𢅚T
 # 𢆉 𦍍 not merged, for they're belonging to different ideographs
 𢆜.	𢆜T
+# 𢆵 𰏰 not merged, for they're belonging to different ideographs
 𢇅.	𢇅U
 𢇋T	𢇋U
 # 𢇒 𢇓 not merged, for they're belonging to different ideographs
