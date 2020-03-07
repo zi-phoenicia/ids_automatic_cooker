@@ -1,7 +1,7 @@
 # following ideographs were merged, because they share an identical L1 IDS
 # ⺀ 𬻿 not merged, for they're belonging to different ideographs
 # ⺊ 𠂉 not merged, for they're belonging to different ideographs
-# 〢 刂 not merged, for they're belonging to different ideographs
+# 〢 刂 𰍧 not merged, for they're belonging to different ideographs
 # 〣 川 not merged, for they're belonging to different ideographs
 # 㐅 乂. 乂J not merged, for they're belonging to different ideographs
 㐌.	㐌T
@@ -389,7 +389,7 @@
 兑.	兑t
 兒.	兒t
 兓.	兓J
-# 八. 八T 八d 卜 not merged, for they're belonging to different ideographs
+# 八. 八T 八d 卜 𰍨 not merged, for they're belonging to different ideographs
 公.	公T
 # 六. 卞. not merged, for they're belonging to different ideographs
 # 六J 卞J not merged, for they're belonging to different ideographs
