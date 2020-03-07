@@ -1,5 +1,4 @@
 # following ideographs were merged, because they share an identical L1 IDS
-# ╪ 扌 not merged, for they're belonging to different ideographs
 # ⺀ 𬻿 not merged, for they're belonging to different ideographs
 # ⺊ 𠂉 not merged, for they're belonging to different ideographs
 # 〢 刂 not merged, for they're belonging to different ideographs
@@ -352,7 +351,8 @@
 亡.	亡H
 亡J	亡V
 交J	交K
-亦.	亦H
+# 亦. 亦H 𰁜 not merged, for they're belonging to different ideographs
+# 亻 𰀪 not merged, for they're belonging to different ideographs
 亾.	亾T
 # 仆 仈. not merged, for they're belonging to different ideographs
 他.	他H
@@ -428,7 +428,7 @@
 匛.	匛J
 匜.	匜H
 匪.	匪H
-匸.	匸H
+# 匸. 匸H 𰀀 not merged, for they're belonging to different ideographs
 # 十 𠂇 𬺰 not merged, for they're belonging to different ideographs
 卂.	卂T
 # 千. 千p 𠂌 not merged, for they're belonging to different ideographs
@@ -730,6 +730,7 @@
 戳.	戳H
 扉.	扉H
 # 手 龵 not merged, for they're belonging to different ideographs
+# 扌 𰀁 not merged, for they're belonging to different ideographs
 # 才. 𬺱 not merged, for they're belonging to different ideographs
 # 扑 扒. 扒T not merged, for they're belonging to different ideographs
 扙.	扙K
@@ -1828,6 +1829,7 @@
 𠀋.	𠀋J
 𠁝U	𠁝V
 𠁟U	𠁟V
+# 𠁢 𰀫 not merged, for they're belonging to different ideographs
 𠂏.	𠂏T
 𠂠.	𠂠T
 # 𠂿 𠦬 not merged, for they're belonging to different ideographs
@@ -1886,6 +1888,7 @@
 𠗽.	𠗽T
 𠙡T	𠙡U
 𠚧.	𠚧T
+# 𠚩 𰄙 not merged, for they're belonging to different ideographs
 # 𠛃 𢩬 not merged, for they're belonging to different ideographs
 𠛛.	𠛛T
 𠛪.	𠛪U
