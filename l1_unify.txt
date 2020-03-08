@@ -3050,6 +3050,7 @@
 𨳚.	𨳚U
 𨳟.	𨳟U
 𨳦U	𨳦V
+# 𨳲 𰿝 not merged, for they're belonging to different ideographs
 𨴄T	𨴄U
 𨴒.	𨴒T
 𨴖.	𨴖U
