@@ -1697,6 +1697,7 @@
 # 颴H 𩗟 not merged, for they're belonging to different ideographs
 飃H	飃T
 飄H	飄T
+# 飦. 𱃡 not merged, for they're belonging to different ideographs
 馚.	馚T
 馡.	馡H
 馣.	馣T
