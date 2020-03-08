@@ -3344,6 +3344,7 @@
 # 𫝁 𬻇 not merged, for they're belonging to different ideographs
 𫵖.	𫵖s
 𫶧.	𫶧w
+# 𬬧 𰽗 not merged, for they're belonging to different ideographs
 𭁈h.	𭁈hn
 # 𭅕 𭅖 not merged, for they're belonging to different ideographs
 𭅶.	𭅶K
