@@ -13,6 +13,10 @@
 㒛.	㒛T
 㒜.	㒜T
 㒪.	㒪T
+㒰.	㒰T
+㒲.	㒲T
+㒳.	㒳T
+㒴.	㒴T
 㒵.	㒵T
 㒶.	㒶T
 㒸.	㒸d
@@ -52,6 +56,7 @@
 㞄.	㞄T
 㞡.	㞡T
 㞣.	㞣T
+㞥.	㞥T
 㞷.	㞷T
 㟽.	㟽T
 㠄.	㠄T
@@ -389,6 +394,9 @@
 兑.	兑t
 兒.	兒t
 兓.	兓J
+入.	入H
+兦.	兦H
+兪.	兪K
 # 八. 八T 八d 卜 𰍨 not merged, for they're belonging to different ideographs
 公.	公T
 # 六. 卞. not merged, for they're belonging to different ideographs
@@ -445,6 +453,7 @@
 叚.	叚d
 叞.	叞T
 史.	史K
+叺.	叺T
 # 吁 𭆺 not merged, for they're belonging to different ideographs
 吂.	吂T
 各.	各d
@@ -478,6 +487,7 @@
 啿H	啿J
 喃.	喃V
 喝.	喝H
+喩.	喩K
 喫.	喫K
 喫H	喫T
 嗁H	嗁J
@@ -512,6 +522,7 @@
 土.	土t
 # 圤 𫭗 not merged, for they're belonging to different ideographs
 圥.	圥w
+圦.	圦J
 圭.	圭t
 地.	地H
 均H	均J
@@ -570,6 +581,7 @@
 婔.	婔H
 婜.	婜H
 婺.	婺H
+婾.	婾K
 媷.	媷H
 媸.	媸T
 嫖.	嫖T
@@ -732,6 +744,7 @@
 # 扌 𰀁 not merged, for they're belonging to different ideographs
 # 才. 𬺱 not merged, for they're belonging to different ideographs
 # 扑 扒. 扒T not merged, for they're belonging to different ideographs
+扖.	扖J
 扙.	扙K
 # 扜 扞 not merged, for they're belonging to different ideographs
 扡.	扡H
@@ -873,6 +886,7 @@
 楔H	楔T
 楗.	楗J
 楘.	楘K
+楡.	楡K
 楫.	楫J
 楬.	楬H
 極H	極J
@@ -924,6 +938,7 @@
 氛.	氛J
 氺.	氺s
 # 汃. 汃T 𣱶 not merged, for they're belonging to different ideographs
+汆.	汆H
 汒.	汒H
 # 汔 𣲁 not merged, for they're belonging to different ideographs
 # 汗 汙 not merged, for they're belonging to different ideographs
@@ -1198,6 +1213,7 @@
 籚.	籚H
 籝H	籝T
 籯H	籯T
+籴.	籴T
 籸.	籸K
 籾J	籾K
 粀.	粀K
@@ -1284,6 +1300,7 @@
 聻.	聻J
 聽.	聽J
 聾J	聾K
+肏.	肏H
 # 肐. 𦘸. not merged, for they're belonging to different ideographs
 # 肐H 𦘸T not merged, for they're belonging to different ideographs
 肓.	肓H
@@ -1575,6 +1592,7 @@
 辣J	辣V
 辰.	辰d
 辱.	辱H
+込.	込J
 # 迀. 迂. not merged, for they're belonging to different ideographs
 # 迀J 迂J not merged, for they're belonging to different ideographs
 # 迀T 迂H not merged, for they're belonging to different ideographs
@@ -1601,6 +1619,7 @@
 野.	野V
 # 釙 釟. 釟T not merged, for they're belonging to different ideographs
 釜.	釜K
+釞.	釞T
 # 釥 𨧛 not merged, for they're belonging to different ideographs
 # 釪 釬 not merged, for they're belonging to different ideographs
 釯.	釯T
@@ -1736,6 +1755,7 @@
 鬾H	鬾K
 魒H	魒T
 魖H	魖J
+魞.	魞J
 魦.	魦H
 魵.	魵T
 鮫J	鮫K
@@ -1862,6 +1882,24 @@
 𠒬U	𠒬V
 𠓑U	𠓑V
 𠓔U	𠓔V
+𠓛.	𠓛T
+𠓝.	𠓝T
+𠓟.	𠓟T
+𠓠.	𠓠T
+𠓡.	𠓡T
+𠓤.	𠓤T
+𠓥.	𠓥T
+𠓧.	𠓧T
+𠓨U	𠓨V
+𠓩U	𠓩V
+𠓫.	𠓫T
+𠓭.	𠓭U
+𠓮.	𠓮T
+𠓯T	𠓯U
+𠓶.	𠓶T
+𠓺U	𠓺V
+𠓼H	𠓼U
+𠓽.	𠓽T
 𠔀.	𠔀T
 𠔁.	𠔁T
 𠔂.	𠔂T
@@ -1879,6 +1917,7 @@
 𠔪T	𠔪U
 𠕃.	𠕃T
 # 𠕓 𡴊U not merged, for they're belonging to different ideographs
+𠕳.	𠕳T
 𠕺.	𠕺T
 𠕻.	𠕻t
 𠖟.	𠖟T
@@ -2038,7 +2077,6 @@
 𡭽.	𡭽V
 𡮅U	𡮅V
 𡮐.	𡮐T
-𡮓U	𡮓V
 𡮡.	𡮡T
 𡮩U	𡮩V
 𡮳U	𡮳V
@@ -2287,6 +2325,7 @@
 𣏕.	𣏕T
 # 𣏣 𣏥 not merged, for they're belonging to different ideographs
 𣐆U	𣐆V
+𣐍.	𣐍T
 𣐏.	𣐏U
 𣐧T	𣐧U
 𣐳U	𣐳V
@@ -2365,6 +2404,8 @@
 𣰪T	𣰪U
 𣱅.	𣱅T
 𣱯.	𣱯T
+𣱸T	𣱸U
+𣱿J	𣱿U
 𣲦U	𣲦V
 𣳁.	𣳁T
 𣳪.	𣳪V
@@ -2503,6 +2544,7 @@
 𤴅.	𤴅T
 𤴌.	𤴌T
 𤴔.	𤴔h
+𤴘.	𤴘T
 𤴟.	𤴟T
 # 𤴩 𤴭U not merged, for they're belonging to different ideographs
 𤵚.	𤵚T
@@ -2559,6 +2601,7 @@
 𥅎T	𥅎U
 𥅓.	𥅓T
 𥅝T	𥅝U
+𥅱T	𥅱U
 𥆆.	𥆆T
 𥆟T	𥆟V
 𥇋.	𥇋T
@@ -2569,6 +2612,7 @@
 𥉆.	𥉆T
 𥉍.	𥉍T
 # 𥉎 𥉨 not merged, for they're belonging to different ideographs
+𥉏T	𥉏U
 𥉸.	𥉸V
 𥉾.	𥉾T
 𥊯.	𥊯T
@@ -2652,6 +2696,7 @@
 𥻉.	𥻉T
 𥻋.	𥻋T
 𥻠U	𥻠V
+𥻳.	𥻳T
 𥼞.	𥼞T
 𥼠.	𥼠T
 𥾛.	𥾛V
@@ -2710,6 +2755,7 @@
 𦒣.	𦒣T
 𦔮.	𦔮U
 𦔯.	𦔯T
+𦔵.	𦔵T
 𦕈T	𦕈V
 𦕋T	𦕋U
 𦕥T	𦕥U
@@ -2867,6 +2913,7 @@
 𧩐.	𧩐T
 𧩟.	𧩟T
 𧩹.	𧩹H
+𧪃.	𧪃T
 𧪤.	𧪤T
 𧪥.	𧪥T
 𧪴.	𧪴T
@@ -2931,6 +2978,7 @@
 𧾩.	𧾩U
 𧾰.	𧾰T
 𧾵.	𧾵T
+𧾺.	𧾺T
 𧿚.	𧿚T
 𧿶.	𧿶T
 𨀶.	𨀶T
@@ -2974,6 +3022,7 @@
 # 𨔺 𨕓. not merged, for they're belonging to different ideographs
 𨕚.	𨕚U
 𨕟T	𨕟U
+𨕽.	𨕽T
 𨗹T	𨗹U
 𨘍T	𨘍U
 𨘏T	𨘏U
@@ -3005,6 +3054,7 @@
 𨞦.	𨞦T
 𨞩.	𨞩T
 𨞬.	𨞬U
+𨞰.	𨞰T
 𨞸.	𨞸T
 𨞹.	𨞹T
 𨟃T	𨟃U

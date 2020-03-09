@@ -1,3 +1,5 @@
+↔	ids			
+↷	ids			
 ⿰	ids			
 ⿱	ids			
 ⿲	ids			
@@ -11,142 +13,190 @@
 ⿺	ids			
 ⿻	ids			
 一	stroke			
-乛	stroke			
 𠃍	stroke			
-𠃌	stroke			
 ㇅	stroke			
-㇈	stroke			
 ㇎	stroke			
-㇊	stroke			
-㇍	stroke			
-!专	stroke			横折撇
-㇇	stroke			
-乙	stroke			
 𠄎	stroke			
 ㇋	stroke			
+㇍	stroke			
+㇈	stroke			
+!𪛝	stroke			
+㇊	stroke			
+𠃌	stroke			
+㇇	stroke			
+乙	stroke			
 ㇌	stroke			
 乁	stroke			
 ⺄	stroke			
+乛	stroke			
 ㇀	stroke			
 丨	stroke			
-亅	stroke			
 𠃊	stroke			
+𠃑	stroke			
+㇉	stroke			
+!专	stroke			
 ㇄	stroke			
 乚	stroke			
+𠄌	stroke			
 ㇘	stroke			
 !𠀀.	stroke			
 !𠀀T	stroke			
-𠃑	stroke			
-㇉	stroke			
-𠄌	stroke			
+亅	stroke			
 ㇁	stroke			
 丿	stroke			
-㇢	stroke			
 𠃋	stroke			
 𠃉	stroke			
 𡿨	stroke			
-𬼂	stroke			
+㇢	stroke			
 ㇓	stroke			
 乀	stroke			
 ㇂	stroke			
-!◇	stroke			
 丶	stroke			
-㇃	stroke			
+!◇	stroke			
 ㇝	stroke			
+㇃	stroke			
 〇	stroke			
-α	stroke			
+!𠆭	stroke			
+!𠇇	stroke			
+!𠍋	stroke			
+!𠪳	stroke			
+!𡆢	stroke			
+!𡦹	stroke			
+!𢀓	stroke			
+!𦹗	stroke			
+𬼂	stroke			
+!𭥟0	stroke			
+!𭥟1	stroke			
 ┌	non-splittable	一丨	0s1s	
 匚.	non-splittable	一𠃊	0s1s	
-匚g	non-splittable	一乚	0s1s	
-匚w	non-splittable	一㇄	0s1s	
+!𦥮0	non-splittable	一𠃑	0s1s	
 !𠂔h	non-splittable	一㇉	0s1s	
-!戉	non-splittable	一𠄌	0s1s	
+匚w	non-splittable	一㇄	0s1s	
+匚g	non-splittable	一乚	0s1s	
+匚t	non-splittable	一𠄌	0s1s	
 厂	non-splittable	一丿	0s1s	
+!𩇧	non-splittable	一乀	0s1s	
+コ	non-splittable	𠃍一	0e1e	
+!𠀟	non-splittable	𠃍㇉	0s1s	
+!辶.	non-splittable	𠃍㇝	0e1s	
+!辶H	non-splittable	㇋㇝	0e1s	
+𠤬	non-splittable	㇈𠃊	0s1s	
+卩	non-splittable	𠃌丨	0s1s	
+!乌	non-splittable	𠃌㇉	0s1s	
+㔾	non-splittable	𠃌乚	0s1s	
+!𠬝	non-splittable	𠃌丿	0s1s	
+!之	non-splittable	㇇㇝	0e1s	
+阝	non-splittable	㇌丨	0s1s	
+𰺦	non-splittable	乛丨	0s1s	
 了	non-splittable	乛亅	0e1s	
 !皮	non-splittable	乛丿	0s1s	
-コ	non-splittable	𠃍一	0e1e	
-!斲3	non-splittable	𠃍𠃊	0s1s	
-!𠀟	non-splittable	𠃍㇉	0s1s	
-!𠁾	non-splittable	𠃍𠄌	0s1s	
-!辶.	non-splittable	𠃍㇝	0e1s	
-卩	non-splittable	𠃌丨	0s1s	
-㔾	non-splittable	𠃌乚	0s1s	
-!乌0	non-splittable	𠃌㇉	0s1s	
-!𠬝	non-splittable	𠃌丿	0s1s	
-𠤬	non-splittable	㇈𠃊	0s1s	
-!之	non-splittable	㇇㇝	0e1s	
-!辶H	non-splittable	㇋㇝	0e1s	
-阝	non-splittable	㇌丨	0s1s	
 𠃎	non-splittable	丨一	0e1e	
 ㄇ	non-splittable	丨𠃍	0s1s	
 冂	non-splittable	丨𠃌	0s1s	
+!𢀯1	non-splittable	丨乁	0e1s	
+!𢀯0	non-splittable	丨⺄	0e1s	
 !毌	non-splittable	𠃊𠃍	0s1s 0e1e	
+!𠁾.	non-splittable	𠃊𠃍	0s1s	
 !母	non-splittable	𠃊𠃌	0s1s	
 !𠌆	non-splittable	𠃊㇇	0s1s	
 凵	non-splittable	𠃊丨	0e1e	
+!𭚤	non-splittable	𠃑一	0e1e	
+!𠁾t	non-splittable	𠄌𠃍	0s1s	
+!𣅞	non-splittable	𠄌𠃌	0s1s	
 !𦪺	non-splittable	丿𠃍	0s1s	
-⺆	non-splittable	丿𠃌	0s1s	
+𠘧	non-splittable	丿㇍	0s1s	
 几.	non-splittable	丿㇈	0s1s	
 几t	non-splittable	丿㇊	0s1s	
-𠘧	non-splittable	丿㇍	0s1s	
+⺆	non-splittable	丿𠃌	0s1s	
 !𤙍	non-splittable	丿乁	0s1s	
 𠘨	non-splittable	丿⺄	0s1s	
 !丘	non-splittable	丿丨	0e1s	
 !乐.	non-splittable	丿𠃊	0e1s	
+!𦥮2	non-splittable	丿𠃑	0e1s	
+!𠂔.	non-splittable	丿㇉	0e1s	
 !乐w	non-splittable	丿㇄	0e1s	
 !𢩺	non-splittable	丿乚	0e1s	
-!𠂔.	non-splittable	丿㇉	0e1s	
 !卬	non-splittable	丿𠄌	0e1s	
 𠂆	non-splittable	丿丿	0e1s	
 人.	non-splittable	丿乀	0s1s	
-入.	non-splittable	丿乀	0s1s	入
 人d	non-splittable	丿丶	0s1s	
-入H	non-splittable	丿㇝	0s1s	
+!𢇭	non-splittable	丿㇝	0e1s	
+!𣆼	non-splittable	丿〇	0e1s	
 𠙴	non-splittable	𠃋丨	0e1e	
 △	non-splittable	𠃋丶	0s1s 0e1e	
 ◇	non-splittable	𡿨〇	0s1s	
-冖	non-splittable	丶乛	0s1s	
+!𭓕	non-splittable	乀丨	0s1s 1e2s	
 𬼁	non-splittable	丶𠄎	0s1s	
+冖	non-splittable	丶乛	0s1s	
 !卐	non-splittable	一丨一	0s1s 1e2e	
 !馬	non-splittable	一丨𠃌	0s1s 1e2s	
 !叚	non-splittable	𠃍一丨	0e1e 0s2s	
 !𠦁	non-splittable	𠃍一丨	0e1e 1s2s	
 巳z	non-splittable	𠃍一𠃊	0e1e 0s2s	
+!𠸃	non-splittable	𠃍一𠃑	0e1e 1s2s	
+弓	non-splittable	𠃍一㇉	0e1e 1s2s	
+巳w	non-splittable	𠃍一㇄	0e1e 0s2s	
 己.	non-splittable	𠃍一乚	0e1e 1s2s	
 巳.	non-splittable	𠃍一乚	0e1e 0s2s	
-巳w	non-splittable	𠃍一㇄	0e1e 0s2s	
-弓	non-splittable	𠃍一㇉	0e1e 1s2s	
 己t	non-splittable	𠃍一𠄌	0e1e 1s2s	
 巳t	non-splittable	𠃍一𠄌	0e1e 0s2s	
 尸	non-splittable	𠃍一丿	0e1e 0s2s	
 𡰣	non-splittable	𠃍一丿	0e1e 1s2s	
+!𣊜	non-splittable	𠃍一乀	0e1e 1s2s	
+!𤓷	non-splittable	𠃍一〇	0e1e 1s2s	
 !卍	non-splittable	丨一丨	0e1e 1s2s	
+!𡚇	non-splittable	丨一𠃊	0e1e 1s2s	
+!𡟽	non-splittable	丨一𠃊	0e2e 1s2s	
 !亞0	non-splittable	丨一𠃑	0e1e 1s2s	
+!𢎜	non-splittable	丨一㇉	0e1e 1s2s	
 !睂	non-splittable	丨一丿	0e1e 1s2s	
+!𣒘	non-splittable	丨一〇	0e1e 1s2s	
 !黽1	non-splittable	丨𠃍一	0e2s 1e2e	
 口	non-splittable	丨𠃍一	0s1s 0e2s 1e2e	
 囗	non-splittable	丨𠃍一	0s1s 0e2s 1e2e	囗
 !𪛗	non-splittable	丨𠃍乛	0s1s 0e2s	
 !𠃛	non-splittable	丨𠃌一	0s1s 0e2s	
+!𫤗	non-splittable	𠃊丨𠃍	0e2e 1s2s	
 !亞1	non-splittable	𠃑一丨	0e1e 1s2s	
 !龍	non-splittable	𠃑一乚	0e1e 1s2s	
 !𢏽1	non-splittable	𠃑一𠄌	0e1e 1s2s	
+!𪔂	non-splittable	𠃑一丿	0e1e 1s2s	
 𬼄	non-splittable	丶乛𠄎	0s1s 1e2s	
+!𮆕	non-splittable	一丨𠃍一	0s1s 1e3s 2e3e	
+!𦥮1	non-splittable	一𠃑一丨	0s1s 1e2e 2s3s	
 !𢏽0	non-splittable	一𠃑一𠄌	0s1s 1e2e 2s3s	
+!𠙿	non-splittable	𠃍一丨一	0e1s 1e2e 2s3s	
+!𦴱	non-splittable	𠃍一丨乙	0e1e 1s2s 2e3s	
+!𥣨	non-splittable	𠃍一𠃑一	0e1e 1s2s 2e3e	
+!𪚦	non-splittable	丨一丨㇈	0e1e 1s2s 2e3s	
 !黽0	non-splittable	丨𠃍一一	0s1s 0e2s 1e3e	
-!烏0	non-splittable	丨𠃍一𠃌	0s1s 1e2e 0e3s	
+!烏	non-splittable	丨𠃍一𠃌	0s1s 1e2e 0e3s	
 !𮍌	non-splittable	丨𠃍𠃍一	0s1s 0e3s 2e3e	
-!雋	non-splittable	丨㇅丨𠃌	0s1s 1e2e 2s3s	
+!雋z	non-splittable	丨㇅丨𠃍	0s1s 1e2e 2s3s	
+!雋.	non-splittable	丨㇅丨𠃌	0s1s 1e2e 2s3s	
+!𣆜1	non-splittable	丨㇎一丨	0s1s 1e2e 2s3s	
+!𢤏	non-splittable	丨𠃊𠃍𠃊	0e1e 1s2s 2e3e	
 𤕪	non-splittable	𠃊𠃍一𠃊	0s1s 1e3e 2s3s	
 !𠁁0	non-splittable	𠃊𠃍一𠃑	0s1s 1e2e 2s3s	
+!𡘟	non-splittable	𠃊𠃍𠃊𠃍	0s1s 1e2e 2s3s	
+!𣆜0	non-splittable	𠃊㇎一丨	0s1s 1e2e 2s3s	
 !臼	non-splittable	丿丨𠃍一	0e1s 1e3s 2e3e	
 !𠂂	non-splittable	〇𠃍一丨	0s1s 1e2e 2s3s	
 㠯.	non-splittable	𠃍一丨𠃍一	0s2s 0e1e 2e4s 3e4e	
 㠯T	non-splittable	𠃍一丨𠃍一	0e1e 1s2s 2e4s 3e4e	
 𢎧	non-splittable	𠃍一𠃑一㇉	0e1e 1s2s 2e3e 3s4s	
+!𢧟	non-splittable	𠃍一𠃑一丿	0e1e 1s2s 2e3e 3s4s	
 凸	non-splittable	丨一丨㇎一	0s1s 1e2e 2s3s 0e4s 3e4e	
+!𦄖	non-splittable	丨一丨𠃑一	0e1e 1s2s 2e4s 3e4e	
 !𠥓	non-splittable	丨𠃍一𠃑一	0s1s 0e4s 1e2e 2s3s 3e4e	
 凹	non-splittable	丨㇅丨𠃍一	0s1s 1e2e 2s3s 0e4s 3e4e	
-!龜0	non-splittable	丨𠃍一一乚丨	0s1s 0e2s 1e3e 2e4s 3s5s	
+!𦥼	non-splittable	丨𠃍一一丨丨	0s1s 0e2s 1e3e 2e4s 3s5s	
+!龜	non-splittable	丨𠃍一一乚丨	0s1s 0e2s 1e3e 2e4s 3s5s	
+!𤦡	non-splittable	丨𠃍一一丿乀	0s1s 0e2s 1e3e 2e4s 3s5s	
+!𦥺	non-splittable	丨𠃍一一丿乀	0s1s 0e2s 1e3e 2e5s 3s4s	
+!𠒅	non-splittable	丨𠃍一𠃍一一	0s1s 0e5s 1e2e 3s4s 4s5e	
 !𠁁1	non-splittable	丨𠃍一𠃍一丨	0s1s 1e2e 0e3s 3s4e 4s5s	
-!斲2	non-splittable	丨𠃍一一丨一𠃑𠃑一丨	0s1s 0e2s 1e3e 2e4s 4e5e 5s6s 3s7s 7e8e 8s9s	
+!𡸭	non-splittable	丨一丨㇎𠃍一丨	0s1s 0e4s 1e2e 2s3s 3e5s 5s6s	
+!𥉢	non-splittable	丨一𠃑𠃑一丨一	0e1e 1s2s 3e4e 4s5s 2e6s 5e6e	
+!𬹟	non-splittable	丨𠃍一一乚丨𠃍一	0s1s 0e2s 1e3e 2e4s 3s5s 5e7s 6e7e	
+!𬻞	non-splittable	丨𠃍一一丨一𠃑𠃑一丨	0s1s 0e2s 1e3e 2e4s 4e5e 5s6s 3s7s 7e8e 8s9s	
